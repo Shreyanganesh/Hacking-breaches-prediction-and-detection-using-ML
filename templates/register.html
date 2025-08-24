@@ -1,0 +1,41 @@
+{% extends "nav.html" %}
+{% block content %}
+{% load static %}
+
+
+
+
+<div class="contact_section layout_padding">
+    <div class="container">
+      <h1 class="check_text">Register</h1>
+      <div class="contact_section2">
+      <form method="post">
+        {% csrf_token %}
+          <div class="input_bg">
+          
+            <input type="text" class="address_text" placeholder="FirstName" name="fname"><br>
+            <input type="text" class="address_text" placeholder="LastName" name="lname"><br>
+            <input type="text" class="address_text" placeholder="UserName" name="uname"><br>
+            <input type="email" class="address_text" placeholder="Email" name="email"><br>
+            <input type="password" class="address_text" placeholder="Password" name="psw"><br>
+            <input type="password" class="address_text" placeholder="Confirm Password" name="psw1"><br>
+            <button type="submit" class="get_bt">Register</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+{% for i in messages %}
+<script>alert("{{i}}")</script>
+{% endfor %}
+
+
+
+{% endblock %}

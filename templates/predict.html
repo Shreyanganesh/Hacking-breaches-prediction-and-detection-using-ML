@@ -1,0 +1,46 @@
+{% extends "nav.html" %}
+{% block content %}
+{% load static %}
+
+
+
+
+<div class="contact_section layout_padding">
+    <div class="container">
+      <h1 class="check_text">CyberBreaches Prediction</h1>
+      <div class="contact_section2">
+        
+            <form method="post">
+                {% csrf_token %}
+          <div class="input_bg">
+            <h3 class="fact_text"></h3>
+            <input type="text" class="address_text" placeholder="Type of Organisation:{{organisation}}" name="org"><br><br>
+            <input type="text" class="address_text" placeholder="Total Records:{{records}}" name="records"><br><br>
+            <input type="text" class="address_text" placeholder="Information Source:{{info}}" name="info"><br><br>
+            
+            <input type="text" class="address_text" placeholder="Source URL:{{url}}" name="url"><br><br>
+            <input type="text" class="address_text" placeholder="Latitude:{{lat}}" name="lat"><br><br>
+            <input type="text" class="address_text" placeholder="Longitude:{{long}}" name="long"><br><br>
+            <input type="text" class="address_text" placeholder="Prediction CyberBreaches:{{prediction}}" name="long"><br><br>
+           
+            
+          </form>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+{% for i in messages %}
+<script>alert("{{i}}")</script>
+{% endfor %}
+
+
+
+{% endblock %}

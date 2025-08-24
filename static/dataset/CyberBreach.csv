@@ -1,0 +1,875 @@
+﻿Date Made Public,Company,City,State,Type of breach,Type of organization,Total Records,Description of incident,Information Source,Source URL,Year of Breach,Latitude,Longitude
+11/03/2006,West Shore Bank,Ludington,Michigan,CARD,BSF,"1,000","Customers' debit cards and 
+            possibly credit cards were compromised from a security break last 
+            summer at a common MasterCard point-of-purchase provider.",Dataloss DB,,2006,43.955283,-86.452583
+11/03/2006,Wesco,Muskegon,Michigan,CARD,BSR,0,"Wesco gas stations experienced 
+            a breach in credit card transactions from July 25-Sept. 7 resulting 
+            in inaccurate charges to customer accounts.",Dataloss DB,,2006,43.234181,-86.248392
+11/09/2006,Four ARCO gas stations,Costa Mesa,California,CARD,BSR,440,"From Sept. 29 to Oct. 9, 
+            thieves used card skimmers to steal bank account numbers and PIN codes 
+            from gas station customers and used the information to fabricate debit 
+            cards and make ATM withdrawals.",Dataloss DB,,2006,33.641132,-117.918669
+2-19-2007,Stop & Shop Supermarkets,Quincy,Massachusetts,CARD,BSR,0,"Credit and debit card account 
+            information including PIN numbers was stolen by high-tech thieves 
+            who apparently broke into checkout-line card readers and PIN pads 
+            and tampered with them.",Dataloss DB,,2007,42.252877,-71.002271
+4-21-2007,Albertsons (Save Mart Supermarkets),Alameda,California,CARD,BSR,100,Credit and debit card numbers were stolen using bogus checkout-line card readers resulting in card numbers processed at those terminals being captured and some to be misused.,Dataloss DB,,2007,37.765207,-122.241636
+1-25-2008,Citibank,San Antonio,Texas,CARD,BSF,"1,279","A third party ATM network breach of credit and debit card payment systems affected Citibank customers.  Unauthorized users may have accessed Citibank Banking Card numbers and associated Personal Identification Numbers (PIN).  Customers were issued new Citibank Banking Cards after Citibank learned of the breach.  At least 1,279 New York residents were affected, but the total number of affected people nationwide was not reported.",Dataloss DB,,2008,29.424122,-98.493628
+04/07/2008,Redbox,Oakbrook Terrace,Illinois,CARD,BSR,0,"Redbox rents DVD movies via vending 
+            machine in drugstores and supermarkets throughout the country. They 
+            announced that they'd found credit card skimmers attached to three 
+            of their kiosks.",Media,,2008,41.85003,-87.964508
+05/01/2008,Lunardi's Supermarket,Los Gatos,California,CARD,BSR,250,"An ATM and credit card reader              in a checkout aisle at the Los Gatos Lunardi's supermarket was recently              switched, resulting in cases of identity theft. Victims all had their              card numbers stolen after officials from Lunardi's contacted them              about a problem with one of their card readers.UPDATE             (8/4/08): Police arrested a man Friday that was involved with the              ATM scam at a Los Gatos supermarket that lost about $300,000. He was              booked into the Santa Clara County Jail in connection with burglary,              conspiracy, drunken driving, and further charges may be filed later,              according to the district attorney's office.",Dataloss DB,,2008,37.226611,-121.97468
+6-23-2008,Bank Atlantic,Tampa,Florida,CARD,BSF,0,"Bank Atlantic confirms they had 
+            a data loss, involving their MasterCard debit cards. It happened through 
+            a local merchant, but at this time, isn't saying which one.",Media,,2008,27.947522,-82.458428
+8-29-2008,Wachovia Bank,Cape Coral,Florida,CARD,BSF,0,"It was confirmed that several customers of the Camelot 
+            branch, at Cape Coral Parkway and Chiquita Boulevard, who used their debit cards have had their accounts fraudulently charged because someone placed a skimming device on the ATM. The device collected 
+            each person's card information, including personal identification 
+            numbers, and allowed different debit cards to be created with 
+            that information.",Media,,2008,26.562854,-81.949533
+05/01/2009,"LexisNexis, Investigative Professionals",Miamisburg,Ohio,CARD,BSO,"40,000","Companies Lexis Nexis and Investigative 
+          Professionals have notified up to 40,000 individuals whose sensitive 
+          and personally identifiable information may have been viewed 
+          by individuals who did not have legitimate access. The data breach is linked 
+          to a Nigerian scam artist who used the information to incur fraudulent 
+          charges on victims' credit cards. Of the 40,000 individuals whose 
+          information was accessed, up to 300 were compromised and used to obtain 
+          fraudulent credit cards. The private information viewed included names, 
+          dates of birth and possibly Social Security numbers.",Dataloss DB,,2009,39.642836,-84.286608
+05/11/2009,Multiple financial institutions,New York,New York,CARD,BSF,0,"A band of brazen thieves ripped 
+          off hundreds of New Yorkers by rigging ATMs to steal account and password 
+          information from bank customers. The first - a skimmer - went over the 
+          slot where customers insert their ATM cards. The skimmer read, and 
+          stored, the personal information kept in the magnetic strip on the back 
+          of the bank card. The second device was a tiny camera hidden in the lighted 
+          signs over the ATM. The pinhole camera lens pointed directly onto the 
+          ATM keypad and filmed victims typing in their supposedly secret PIN 
+          codes. The thieves would then create their own phony ATM cards and use 
+          their victims' PINs to access accounts.",Media,,2009,40.714269,-74.005973
+08/11/2009,Bank of America Corp.,Charlotte,North Carolina,CARD,BSF,0,"Charlotte-based BofA (NYSE:BAC) 
+            and Citigroup (NYSE:C) each recently issued replacement cards to consumers, 
+            telling them that their account numbers may have been compromised. 
+            Account information from certain Bank of America debit cards may have 
+            been compromised at an undisclosed third-party location. Bank officials 
+            are not certain if this is a new breach or a previously disclosed 
+            one.",Media,,2009,35.227087,-80.843127
+08/11/2009,Citigroup Inc.,New York,New York,CARD,BSF,0,"Citigroup (NYSE:C) recently 
+            issued replacement cards to consumers and told them that their account 
+            numbers may have been compromised. Citigroup told credit-card customers 
+            in Massachusetts that their account numbers may have been illegally 
+            obtained as a result of a merchant database compromise and could be 
+            at risk for unauthorized use. Bank officials are not certain 
+            if this is a new breach or a previously disclosed one.",Media,,2009,40.714269,-74.005973
+3-19-2010,PNC Financial Services Group Inc.,Dayton,Ohio,CARD,BSF,0,"PNC Financial Services Group is investigating a possible security breach 
+involving some debit cards issued by the former National City Corp., which it 
+acquired in December 2008. The problem surfaced when former National City 
+customers began reporting unauthorized charges on their accounts. The breach 
+involves a small number of cards in the Cincinnati area, and it appears to have 
+been committed by someone outside PNC or National City prior to the merger. It 
+doesn’t involve any PNC-branded cards or longtime PNC customers. PNC has shut 
+down National City debit cards in the Cincinnati area and asks that customers 
+who have not yet done so activate their PNC debit cards. PNC is working 
+one-on-one with customers to refund accounts, and has been returning funds 
+within 24 hours.UPDATE (10/19/10): Three men were charged with using skimming devices at PNCs in Pittsburgh in April and May.",Media,,2010,39.758948,-84.191607
+5-24-2011,Soy Capital Bank and Trust,Decatur,Illinois,CARD,BSF,0,Five MIdwest financial institutions have seen fraudulent charges show up on their customers' MasterCard-issued debit cards.  Soy Capital Bank and Trust is responding quickly to the breach; it appears to have occurred over the weekend of May 21.  Fraudulent charges that emptied the accounts of some customers have been appearing in places ranging from Australia to Texas.  Soy Capital is blocking transactions on old MasterCards and giving clients new debit cards.  Soy Capital expects minimal losses from the breach and will be able to reinstate customer funds within 10 days.  Customers who were affected could end up paying as much as $50.  ,Media,,2011,39.840315,-88.9548
+7-30-2011,Chase Bank,Rancho Peñasquitos,California,CARD,BSF,950,"A man was charged with using a skimming device to take over $200,000 from customer accounts.  He was arraigned on 45 counts of identity theft, grant theft, burglary, making fake ID cards and causing losses that exceeded $200,000.  He was caught when bank investigators discovered that someone was installing an ATM skimming device on the door of the bank's ATM lobby every Saturday after closing.  The device was then removed by the thief early on Mondays.  This happened for at least six consecutive weeks.  Hidden cameras were also used to record customer pins at the ATMs.  Agents were able to arrest the man as he returned to retrieve the skimming device.",Media,,2011,32.95949,-117.115311
+07/03/2012,Olympic College,Bremerton,Washington,CARD,EDU,16,Close to 20 Olympic College students and employees notified college personnel that their credit or debit card numbers were used fraudulently.  The payment cards had all been used at Olympic College. The reports began in late June and the exact cause of the breach was not identified.  Credit card transaction systems were removed from the main merchant network as a precaution.,Dataloss DB,,2012,47.57,-122.6525
+10-24-2012,Barnes & Noble,New York,New York,CARD,BSR,0,"PIN pad devices used to process credit and debit card information in stores were compromised.  The breach was discovered around September 14 during maintenance and inspection of the devices.  Anyone who used a credit or debit card at a Barnes & Noble may have been affected by a sophisticated criminal effort to steal that information.  Names, payment card account numbers, and PINs may have been exposed.  Barnes & Noble removed all PIN pads. Fewer than 1% of the inspected PIN pads had been affected.UPDATE (10/24/2012): A total of 63 Barnes and Noble stores in nine states had at least one compromised PIN pad device.  Malicious code was installed on the PIN pads.UPDATE (09/05/2013): A federal judge ruled that customers failed to show that their personal information was stolen in the data breach.",California Attorney General,,2012,40.714353,-74.005973
+11-30-2012,"Inova Fairfax Hospital Cardiac Care Center, Inova Fair Oaks Hospital",Fairfax,Virginia,CARD,MED,0,Someone discovered card skimming devices at an ATM near a gift shop of the Inova Fairfax Hospital Cardiac Care Center and at an ATM next to the Inova Fair Oaks Hospital cafeteria.  One device was discovered by a hospital employee who attempted to use the ATM and witnessed the skimmer fall from the ATM.  A skimming device was previously discovered at the same Inova Fairfax Hospital Cardiac Care Center ATM in September.  It is unclear how long the devices were there and people who used them are urged to check their financial statements.,PHIPrivacy.net,,2012,38.846224,-77.306373
+12-13-2012,Yolo Federal Credit Union,Woodland,California,CARD,BSF,0,"A skimming device on an ATM resulted in fraudulent transactions on over 800 accounts.  The fraudulent transactions appear to date from October 27, 2012 to November 7, 2012. It is not clear how many skimming devices were involved and where they were located.",California Attorney General,,2012,38.678516,-121.773297
+12-20-2012,"Jetro, Restaurant Depot",College Point,New York,CARD,BSR,0,"Customers who used payment cards in several store locations discovered fraudulent charges on their debit and credit cards.  It is unclear if a breach affected the physical machines in the stores or if the payment processing system was hacked.  The company discovered the issue on December 4 and an investigation revealed that the intrusions began on November 7, 2012.  Anyone who used their payment card in a store between November 7 and December 5 of 2012 should closely review their financial statements.  Customers are also warned to be suspicious of phishing emails or phone calls.  Customers should not give their information out over the phone or respond to emails asking for sensitive information.",California Attorney General,,2012,40.786395,-73.838966
+02/12/2013,"J.P. Morgan Chase, Capital One",New York,New York,CARD,BSF,"6,000","Two men face charges of conspiracy to commit bank fraud, conspiracy to commit access device fraud, and aggravated identity theft after being indicted for attaching skimming devices to ATMs in New York, New Jersey, Illinois, and Wisconsin.  At least nine other people are believed to have participated in the bank fraud scheme.  Over 6,000 J.P. Morgan Chase and Capital One bank accounts were defrauded for over $3 million.",Media,,2013,40.714353,-74.005973
+2-25-2013,Sprouts,Phoenix,Arizona,CARD,BSR,0,A number of credit card terminals in 19 California and Arizona stores were affected by point-of-sale malware between January 25 and 29.  Credit card and debit card numbers were exposed.  Customer PINs associated with the payment cards were not affected. Sprouts identified the issue within a few days of the breach and updated customer information protection procedures in all of its stores.,Media,,2013,33.448377,-112.074037
+4-15-2013,Wawa,Burlington,New Jersey,CARD,BSF,0,"Customers who shopped at a Wawa on Salem Road in Burlington, New Jersey noticed fraudulent purchases on their credit cards.  Investigators were able to trace the fraud to four people and arrest them. The four men were charged with credit card theft, credit card fraud, identity theft, and having electronic devices for criminal use.  More victims are expected to be found.",Media,,2013,40.071222,-74.864887
+4-29-2013,Gomez Gasoline and Automotive,Watsonville,California,CARD,BSR,50,More than 50 reports of credit card fraud have been traced to people who were customers at Gomez Gasoline and Automotive.  Police suspect that a credit-card skimming device was placed on one or more gas pumps.  The skimming devices have been spotted at other gas stations.,Media,,2013,36.910231,-121.756895
+05/07/2013,Mapco,Brentwood,Tennessee,CARD,BSR,0,"Customers who made purchases between March 19-25, April 14-15, or April 20-21 may have had their credit or debit card information compromised.  Tennessee and six other Southern states may have been affected by the breach. It is not clear if the payment card information was taken inside the stores or outside of the stores at gas pumps.UPDATE (06/10/2013): The accounts of consumers who used payment cards at 373 Mapco Express stores may have been affected. Two additional locations in Tennessee were affected on April 14 and 15. There are unnamed stores that may have been affected on April 20 and 21.UPDATE (07/08/2013): Three lawsuits have been filed as a result of data stolen in three MAPCO breaches that occurred in March, April, and June.",Media,,2013,36.033116,-86.782777
+07/02/2013,Quayside Publishing Group,Minneapolis,Minnesota,CARD,BSO,0,"A credit card breach resulted in the exposure of information. Customers who made online purchases at Quayside Publishing Group had their information exposed sometime around April 29.  Names, addresses, and credit card numbers were exposed until June 17.",California Attorney General,,2013,44.977753,-93.265011
+7-29-2013,Wal-Mart,,Oklahoma,CARD,BSR,0,"Two men were indicted for their role in a skimming plot.  They are accused of fraudulently obtaining $400,000 by placing skimming devices at gas pumps at Wal-Mart stores for up to two months at a time.  The then created counterfeit cards by using hte legitimate card information obtained through skimming.  The skimming ring ran from April 2012 through January 2013.",Media,,2013,35.007752,-97.092877
+9-20-2013,Murphy USA,Little Rock,Arkansas,CARD,BSR,0,"Two men pleaded guilty to one count each of conspiracy to commit wire fraud.  They placed skimming devices on gas pumps at Murphy USA station in Conway and Little Rock, Arkansas as well as Durant, Oklahoma.  This allowed them to collect credit card information and create fraudulent credit cards.  The breach occurred between April 2012 and January 2013 and led to fraudulent charges of about $400,000. It's estimated that between 50 and 500 people were affected.",Media,,2013,34.746481,-92.289595
+10/10/2013,Nordstrom,Aventura,Florida,CARD,BSR,0,"Six skimmers were found on registers in one Nordstrom store in Aventura.  Six people were seen tending to the devices on the afternoon of October 5. They came in groups of three and distracted sales people while tampering with the registers, twice.  Skimmers and tiny cameras were installed to collect credit card information.  The information can be used to make fraudulent credit cards.",Media,,2013,25.956481,-80.139212
+10-18-2013,Long Island Rail Road,Long Island,New York,CARD,BSR,0,"Ticket vending machines associated with Long Island Rail Road were discovered to have been compromised.  Customers who used their debit and credit cards at the machines may have had their information recorded and used to create fraudulent payment cards.  Tiny cameras were placed on the machines and hidden in thin black strips.  A total of seven machines in Bayside, Garden City, Great Neck, Greenvale, and Merillon Avenue were compromised.",Media,,2013,40.789142,-73.134961
+12/12/2013,Boston Convention and Exhibition Center,Boston,Massachusetts,CARD,BSO,300,At least seven employees of Boston Convention and Exhibition Center and 300 people who attended conventions during the fall may have been affected by a credit card breach.  It is unclear how the credit card information may have been accessed and the exact dates when customers would have been vulnerable.,Media,,2013,42.360083,-71.05888
+2-21-2014,Discover Financial Services,Salt Lake City,Utah,CARD,BSF,0,Discover Financial Services sent a notice to their card holders that they were replacing their current cards in wake of all of the retail data breaches. They stated this was not due to a breach of their own systems. The card replacement specifically replaces the security codes on the back of the card withouth changing the card holders current account number.They have stated to their members this was strictly a security measure on behalf of Discover Financial Services. No information was communicated in the letter that the members card had been compromised.,California Attorney General,,2014,40.760779,-111.891047
+04/07/2014,American Express Company,New York,New York,CARD,BSF,0,"Amercian Express Company informed customers that their credit card information was recovered as part of an investigation by law enforcement agencies and/or American Express. The information reportedly only included the American Express Card account numbers, no Social Security numbers were impacted.Those individuals who notice suspicious activity on their account are asked to call 1-855-693-22131-855-693-2213 to notify the company.CallSend SMSAdd to SkypeYou'll need Skype CreditFree via Skype",California Attorney General,,2014,40.713611,-74.014722
+01/06/2016,McFadden,Glendale,Arizona,CARD,BSO,0,"People who ate at McFadden's received phone calls about fraudulent charges made to their credit card. ""The victims were told by their banks, the charges were made using a fake
+ credit card. ABC15 found even more victims when we searched on Yelp. 
+One writes, the manager told them they were aware of the problem, 
+suggesting a problem with the bank.""More information: http://www.abc15.com/news/region-west-valley/glendale/mcfaddens-at-westg...",Media,,2016,34.142508,-118.255075
+1-15-2018,"Jason's Deli - Deli Management, Inc. ",,,CARD,BSR,"20,00,000","On December 22, 2017, Jason’s Deli was notified by payment processors that credit card security personnel had informed it that a large quantity of payment card information had appeared for sale on the “dark web,” and that an analysis of the data indicated that at least a portion of the data may have come from various Jason’s Deli locations. From our initial investigation findings, criminals deployed RAM-scraping malware on a number of our point-of-sales (POS) terminals at various corporate-owned Jason’s Deli restaurants Based on the facts known to Jason’s Deli at this time, the Company believes that the criminals used the malware to obtain payment card information off of the POS terminals beginning on June 8, 2017. Our investigation has determined that approximately 2 million unique payment card numbers may have been impacted in total.",Government Agency,https://justice.oregon.gov/consumer/DataBreach/Home/GetBreach/593620175,2017,37.09024,-95.712891
+1-24-2018,Gourmesso,,Maine,CARD,BSR,1,Discover Card account information of 1 Maine citizen breached. ,Government Agency,http://www.maine.gov/ag/consumer/identity_theft/,2017,37.09024,-95.712891
+2-25-2005,PayMaxx,Miramar,Florida,DISC,BSF,"1,00,000","A software glitch at PayMaxx Inc., a Franklin, Tenn., payroll 
+processing company, accidentally revealed personal financial 
+information on as many as 100,000 individuals, including Social Security numbers. The problem arose in a PayMaxx feature that enabled employees to use the 
+Internet to get their W-2 forms, the standard tax information form 
+issued by companies to their employees. ",Dataloss DB,,2005,25.987314,-80.232271
+03/11/2005,Kaiser Permanente,Oakland,California,DISC,MED,140,"A disgruntled employee 
+            posted information on her blog noting that Kaiser Permanente included 
+            private patient information on systems diagrams posted on the Web. 
+            
+            UPDATE (6/21/2005): The California Department of Managed 
+            Health Care fined Kaiser $200,000 for exposing the confidential health 
+            information.",Dataloss DB,,2005,37.804372,-122.270803
+05/05/2005,Arbella Mutual Insurance Company,Quincy,Massachusetts,DISC,BSF,0,"A customer discovered that he could view the Registry of Motor Vehicles database by visiting a website printed on the bottom of his insurance paperwork.  He was able to look up people by name and then obtain their address, date of birth, license number, driving history and even their Social Security number most times.  The company corrected the problem quickly.  The company believes the error was temporary and that few outsiders were able to access the information.",Dataloss DB,,2005,42.252877,-71.002271
+6-21-2005,CVS,Woonsocket,Rhode Island,DISC,BSR,0,"CASPIAN, a consumer privacy group, notified CVS of a security hole that allowed people to access information about purchases made by customers who used a CVS Corp. loyalty card.  Anyone with someone's card number, zip code and the first three letters of the customer's last name could have a list of recent purchases sent to an email account. The company removed Internet access to the information.  Fifty million loyalty cards have been issued.",Dataloss DB,,2005,42.002876,-71.514784
+6-28-2005,Lucas County Children Services,Toledo,Ohio,DISC,GOV,900,"Data from around 500 former and 400 current employees from as far back as 1991 were sent outside the organization via e-mail.  The data included names, Social Security numbers, and telephone numbers.  Current employees were contacted immediately and letters were sent to former employees.",Media,,2005,41.663938,-83.555212
+07/12/2005,University of Southern California (USC),Los Angeles,California,DISC,EDU,"2,70,000",A reporter contacted USC based on an individual's claim to be able to access personal information on college applicants online.  USC removed the site pending investigation and sent letters to affected individuals.,Security Breach Letter,,2005,34.052234,-118.243685
+7-30-2005,Austin Peay State University,Clarksville,Tennessee,DISC,EDU,"1,500","The University removed student Social Security numbers, grade point averages and names that were accidentally posted.  A student alerted the University to the problem after searching his name and finding the information on the website.  A school employee put the internal documents on the website to email other staff members the information, but forgot to remove the information from the website.",Dataloss DB,,2005,36.529771,-87.359453
+08/12/2005,Verizon,New York,New York,DISC,BSR,0,A website flaw allowed customers to check the account details of other customers if they knew their phone numbers.  Users' minutes and cell phone models could be viewed in this manner.  This unintentional feature may have gone unnoticed for five years due to a glitch.,Dataloss DB,,2005,40.714353,-74.005973
+8-30-2005,Stark State College of Technology,North Canton,Ohio,DISC,EDU,"7,058","Students attempting to access their grades, financial aid information and academic standing were able to view the information of other students.  Social Security numbers, GPA, and course enrollment were viewable.  A glitch is believed to be the source of the problem.",Dataloss DB,,2005,40.875891,-81.402336
+9-15-2005,Miami University,Hamilton,Ohio,DISC,EDU,"21,762",A report containing Social Security numbers and grades of students was accessible online for three years.  The University is attempting to contact those affected via letters and emails.  A graduate alerted the University to the exposure after running a Google.com search of her name.,Dataloss DB,,2005,39.399501,-84.561336
+9-22-2005,City University of New York,New York,New York,DISC,EDU,771,"An unprotected payroll link exposed personal information for Hunter College Campus Schools.  Those affected included 335 Queens College law school students, 265 current workers and 171 former workers at local elementary and high schools.  All affected people were contacted.",Dataloss DB,,2005,40.714269,-74.005973
+10/12/2005,Ohio State University Medical Center,Columbus,Ohio,DISC,MED,"2,800","Appointment 
+            information including Social Security numbers, birth dates, addresses, phone numbers, medical record numbers, reasons for appointments, and physicians was exposed online.",Security Breach Letter,,2005,39.961176,-82.998794
+10-15-2005,Montclair State University,Montclair,New Jersey,DISC,EDU,"9,100",Names and Social Security numbers of undergraduates were posted online for nearly four months.  An undergraduate alerted the University after running a Google.com search of his name.  The University warned all students of the problem.,Dataloss DB,,2005,40.825933,-74.209034
+10-20-2005,Monmouth University,West Long Branch,New Jersey,DISC,EDU,677,The names and Social Security numbers of 677 students were posted online for over four months.  The University corrected the error and notified students after a student notified them of the problem.  A glitch seems to have caused the information to be found through a simple Internet search.,Dataloss DB,,2005,40.290389,-74.017638
+10-20-2005,Vermont Technical College,Randolph Center,Vermont,DISC,EDU,0,"Names, Social Security numbers, addresses, SAT scores and ethnicity of all students enrolled during 2003 were posted online from January 2004 until the mistake was discovered in October of 2005.  Someone accidentally sent the data to a publicly accessible place.",Dataloss DB,,2005,43.940899,-72.607603
+10-29-2005,University of Tennessee,Knoxville,Tennessee,DISC,EDU,"1,900",Nineteen hundred students and employees had their names and Social Security numbers posted on the Internet from spring of 2004 until the discovery in October of 2005.  A student searched her name and found it listed with her Social Security number on a UT email discussion group site.  Information pertaining to individuals who had either paid or owed small amounts of money to the University was shared among 10 employees and the information technology office.  The information was mistakenly coded as public rather than private.,Dataloss DB,,2005,35.960638,-83.920739
+11/07/2005,Papa John's,Louisville,Kentucky,DISC,BSR,0,"An error made thousands of customer comments and internal corporate emails available to anyone searching the Internet.  Customer comments submitted between September 29 and November 7 were viewable and had customer names, addresses, phone numbers and email addresses attached.  The company stated that ""customer feedback over the last five weeks...could be viewed by a user who would have to enter a very specific, unpublished URL.""  The system now requires a password.",Dataloss DB,,2005,38.252665,-85.758456
+12/08/2005,J-Sargeant Reynolds Community College,Richmond,Virginia,DISC,EDU,"26,000","The names, Social Security numbers and addresses of students taking non-credit classes from 2000 to 2003 were posted online for months.  The information was compiled for a mailing list, but an employee posted it on the College's server.  A student informed officials of the mistake after accessing the information online.  The College began the process of removing the information from the web.",Dataloss DB,,2005,37.542979,-77.469092
+12-16-2005,Colorado Technical University (CTU),Colorado Springs,Colorado,DISC,EDU,300,"An email was erroneously sent which contained 
+            names, phone numbers, email addresses, Social Security numbers and 
+            
+            class schedules.",Security Breach Letter,,2005,38.833882,-104.821363
+12-22-2005,H&R Block,Kansas City,Missouri,DISC,BSO,0,"Many past and present customers received unsolicited copies of the program TaxCut that displayed their Social Security numbers on the outside, embedded in a lengthy string of code.",Security Breach Letter,,2005,39.099727,-94.578567
+01/02/2006,H&R Block,Kansas City,Missouri,DISC,BSO,0,"H&R Block included Social Security numbers in a 40-digit 
+            number string on mailing labels.  Affected individuals were contacted.",Dataloss DB,,2006,39.099727,-94.578567
+1-20-2006,University of Kansas (Kansas University),Lawrence,Kansas,DISC,EDU,"9,200","A computer file with sensitive personal information was accessible to the public.  Students who applied and paid an application fee online between April 29, 2001 and December 16, 2005 had their names, Social Security numbers, birth dates, addresses, phone numbers and credit card numbers exposed.",Dataloss DB,,2006,38.971669,-95.23525
+1-31-2006,Boston Globe (The New York Times Company) and The Worcester Telegram & Gazette,Boston,Massachusetts,DISC,BSO,"2,40,000","Recycled paper used in wrapping newspaper 
+            bundles for distribution turned out to contain credit and debit card information along with routing information for 
+            personal checks of subscribers.  ",Dataloss DB,,2006,42.358431,-71.059773
+02/01/2006,Blue Cross and Blue Shield of North Carolina,Durham,North Carolina,DISC,BSO,629,"Social Security numbers of members were printed on the mailing labels of envelopes with information 
+            about a new insurance plan.  Those who were affected were contacted immediately.",Dataloss DB,,2006,35.994033,-78.898619
+02/04/2006,FedEx,Los Angeles,California,DISC,BSO,"1,100","Eighty-five hundred W-2 forms including other workers' tax information such as Social Security numbers and 
+            salaries were sent out to employees. Fewer than 1,100 employees had their information exposed.  The company suspects that their internal processing center may have misaligned the forms and caused them to be cut in the wrong place. Workers were asked not to open their W-2s, but many had already done so before the notification. ",Dataloss DB,,2006,34.052234,-118.243685
+02/06/2006,Prudential Financial Inc.,Newark,New Jersey,DISC,BSF,"1,000","A health insurer claims data were erroneously faxed to a company in Canada by doctors and clinics across the U.S.. 
+            Data included the patients' Social Security numbers, bank account details 
+            and health care information.",Media,,2006,40.735657,-74.172367
+2-15-2006,U.S. Department of Agriculture (USDA),Washington,District Of Columbia,DISC,GOV,"3,50,000","The Social Security numbers of tobacco farmers were accidentally released when the U.S. Department of Agriculture attempted to comply with the Freedom of Information Act.  Those who received the information agreed to destroy any copies and return the original discs, which also contained tax identification numbers.",Dataloss DB,,2006,38.895112,-77.036366
+2-15-2006,Suffolk County Clerk's Office,Long Island,New York,DISC,GOV,"7,000","Between 7,000 and 8,000 homeowners had their Social Security numbers accidentally posted online.  After realizing the mistake, County officials realized that they could not remove the information.  People who pay to access the County's public records online will be able to see the Social Security numbers associated with people and addresses in the system that date back to 2001.  The county could not alter public records in any way, but a new program will be implemented to block the Social Security numbers from newly recorded documents.",Dataloss DB,,2006,40.714353,-74.005973
+2-15-2006,Old Dominion University,Norfolk,Virginia,DISC,EDU,601,"An instructor 
+            posted a class roster containing names and Social Security numbers 
+            to a publicly accessible website.  The information was posted during the spring semester of 2004.  Letters were sent to affected students which contained websites where the students could check to see if they had been victims of identity theft.",Dataloss DB,,2006,36.846815,-76.285218
+2-16-2006,The Princeton Review,New York,New York,DISC,BSR,0,"An unauthorized user attempted to obtain the IDs and passwords of a small number of account holders. A small number of the accounts may have contained names, Social Security numbers,  dates of birth, email addresses, mailing addresses and information from college applications.  The unauthorized user may have had access to the information before the February 10 incident was discovered. At least 35 New York residents were affected.",Dataloss DB,,2006,40.714353,-74.005973
+2-20-2006,"Capital Computer Associates, Spencerport School District",Albany,New York,DISC,BSF,17,Seventeen employees of Spencerport School District had their Social Security numbers and names posted on a website that could be viewed by any office staff at Capital Computer's client sites in New York State school districts and Boards of Cooperative Educational Services (BOCES).  The information was supposed to be fictitious and used to notify users of changes to the software they use to process accounting and human resource data. The posting occurred on February 14 and was removed at the end of the day on February 16.,Dataloss DB,,2006,42.652579,-73.756232
+03/02/2006,Hamilton County Clerk of Courts,Cincinnati,Ohio,DISC,GOV,"13,00,000","Social Security numbers, and other personal data              of residents was posted on the County's website.  Some information was stolen and used to commit              identity theft. UPDATE              (9/28/06):An identity thief was sentenced              to 13 years in prison for the crimes. She stole 100 identities and              nearly $500,000. The Web site now blocks access to court documents              containing personal information.",Dataloss DB,,2006,39.14801,-84.47702
+03/10/2006,"Long Island University, Alpha Chi National Honors Society",Brooklyn,New York,DISC,EDU,51,"Students who applied to join Alpha Chi had their Social Security numbers and other personal information sent to an Honors student email list.  The email was recalled immediately, but anyone who opened it right away would have been able to access the applicant information.  The advisor responsible for the mistake asked the National Office to consider abandoning the use of Social Security numbers.",Dataloss DB,,2006,40.65,-73.95
+3-22-2006,District of Columbia Board of Elections and Ethics,Washington,District Of Columbia,DISC,GOV,0,The Social Security numbers of registered voters in the District of Columbia were accessible.  D.C. residents' voting histories were mailed with Social Security numbers that were poorly hidden or not hidden at all.  The problem occurred because residents were asked to use their Social Security numbers as voter IDs.  The policy was changed to include only the last four digits of Social Security numbers.,Dataloss DB,,2006,38.895112,-77.036366
+3-24-2006,California State Employment Development Division,Sacramento,California,DISC,GOV,"64,000","A computer glitch sent state 
+            Employment Development Division 1099 tax forms containing Social Security 
+            numbers and income information to the wrong addresses, potentially 
+            exposing those taxpayers to identity theft.",Dataloss DB,,2006,38.581572,-121.4944
+3-29-2006,University of Nebraska Lincoln (UNL),Lincoln,Nebraska,DISC,EDU,342,"Students from the College of Engineering had Social Security numbers, email addresses, grade point averages and other personal information posted online.  The information may have been posted since November of 2004 and was first noticed in summer of 2005.  The problem was finally fixed during the week of March 29 when the file was removed from the Google server.",Dataloss DB,,2006,40.806862,-96.681679
+3-30-2006,Connecticut Technical High School System,Middletown,Connecticut,DISC,EDU,"1,250","Social Security numbers 
+            of faculty and administrators were mistakenly distributed via email to staff.  The email went to 17 principals; at least one forwarded the email to her staff of 77.  Those affected were contacted.",Dataloss DB,,2006,41.562321,-72.650649
+04/07/2006,DiscountDomainRegistry.com,Brooklyn,New York,DISC,BSO,"1,000","Domain name registrants' personal information including user names, passwords and 
+            credit card numbers was accessible online.  The information may have been exposed online for four months.",Dataloss DB,,2006,40.650104,-73.949582
+04/10/2006,Broward County Records Division,Fort Lauderdale,Florida,DISC,GOV,0,"Broward County public records with Social Security numbers, driver's license information and bank account details were made available online.  The information has been available online for several years.  A new statute that will require county recorders to remove Social Security numbers and financial information from public documents before posting documents online will take effect in 2007.  The sensitive information that has already been posted will eventually be removed. Individuals can speed up the process of having their specific information removed by submitting a written request.",Dataloss DB,,2006,26.122308,-80.143379
+01/10/2005,George Mason University,Fairfax,Virginia,HACK,EDU,"32,000","Names, photos, and Social Security numbers of 32,000 students and staff were compromised because of a hacker attack on the University's main ID server.",Dataloss DB,,2005,38.846224,-77.306373
+1-18-2005,"University of California, San Diego",San Diego,California,HACK,EDU,"3,500",A hacker breached the security of two University computers that stored the Social Security numbers and names of students and alumni of UCSD Extension.,Dataloss DB,,2005,32.715329,-117.157255
+03/08/2005,"DSW Shoe Warehouse, Retail Ventures",Columbus,Ohio,HACK,BSR,"14,00,000","Credit card information from customers in 25 states was compromised. UPDATE (04/19/2005): An additional 
+              
+              1,300,000 customers were added to the initial estimate of 100,000.UPDATE (08/23/2012): DSW was locked in a dispute with National Union over insurance coverage.  A federal appellate court ruled that DSW was entitled to insurance coverage of more than $6.8 million in stipulated losses and prejudgment interest.",Dataloss DB,,2005,39.961176,-82.998794
+03/11/2005,Boston College,Boston,Massachusetts,HACK,EDU,"1,20,000",A hacker gained access to a phone banking database that included alumni addresses and Social Security numbers.,Dataloss DB,,2005,42.358431,-71.059773
+3-16-2005,"California State University, Chico",Chico,California,HACK,EDU,"59,000","A university housing and food service computer server containing names and Social Security numbers of faculty, staff, students, former students, and prospective students was hacked.",Dataloss DB,,2005,39.728494,-121.837478
+3-20-2005,Northwestern University,Evanston,Illinois,HACK,EDU,"17,500","Hackers gained access to multiple computers and gathered user ID and password information from the University's network.  The personal information for around 500 faculty members, 2000 staff members, and 14,000 alumni was compromised.  ",Media,,2005,42.041141,-87.690059
+3-20-2005,"University of Nevada, Las Vegas",Las Vegas,Nevada,HACK,EDU,"5,000",A hacker was caught accessing the University's server and may have gotten information from the Student Exchange and Visitor Information System (SEVIS).,Dataloss DB,,2005,36.114646,-115.172816
+3-25-2005,Purdue University,West Lafayette,Indiana,HACK,EDU,"1,200","Computers in the College              of Liberal Arts' Theater Dept. were hacked, exposing personal information              of employees, students, graduates, and business affiliates.",Dataloss DB,,2005,40.425869,-86.908066
+04/05/2005,"University of California, Davis",Davis,California,HACK,EDU,"1,100","The names and Social Security 
+            numbers of students, faculty, visiting speakers and staff may have 
+            been compromised when a hacker accessed a main computer.",Dataloss DB,,2005,38.544907,-121.740517
+04/06/2005,"University of California, San Francisco (UCSF)",San Francisco,California,HACK,EDU,"7,000","A server in the accounting 
+            and personnel departments was hacked. It contained information on 
+            7,000 students, faculty, and staff members. The affected individuals 
+            were notified March 23.",Dataloss DB,,2005,37.77493,-122.419416
+04/08/2005,Eastern National,Ft. Washington,Pennsylvania,HACK,NGO,"15,000","A hacker gained access to a server containing the names, credit card information, and billing addresses of 15,000 customers.  Letters were mailed to all customers who bought products through the educational website for national parks.",Dataloss DB,,2005,40.13845,-75.191799
+04/11/2005,Tufts University,Boston,Massachusetts,HACK,EDU,"1,06,000",The University's donor database was breached sometime in late 2004.  The database was managed by a software company for nonprofit organizations named RuffaloCODY.  Letters were sent to the alumni who may have had their personal information stolen.,Dataloss DB,,2005,42.358431,-71.059773
+4-15-2005,"Polo Ralph Lauren, HSBC",New York,New York,HACK,BSR,"1,80,000","Credit card data was stolen. Individuals holding the HSBC-issued General Motors Mastercard were told their cards should be replaced.              UPDATE(07/10/07): U.S. Secret Service 
+              agents found Ralph Polo Lauren customers' credit card numbers in 
+              the hands of Eastern European cyber thieves who created high-quality 
+              counterfeit credit cards. Victims are from the U.S., Europe, Asia 
+              and Canada, among other places, Several Cuban nationals in Florida 
+              were arrested with more than 200,000 credit card account numbers.",Dataloss DB,,2005,40.714269,-74.005973
+4-21-2005,Carnegie Mellon University,Pittsburgh,Pennsylvania,HACK,EDU,"19,000","The compromised information included Social Security numbers and grades from master's alumni classes 1997 through 2004, job offer information from master's alumni classes 1985 through 2004, contact information for all alumni, and Social Security numbers and grades from doctoral students enrolled between 1998 and 2004.  Between 5,000 and 6,000 of those affected had their credit card information and Social Security numbers compromised. Emails and letters were sent to those who were affected.",Dataloss DB,,2005,40.440625,-79.995886
+4-26-2005,Michigan State University's Wharton Center,East Lansing,Michigan,HACK,EDU,"40,000",A hacker may have stolen the credit card information of visitors attending a performing arts venue.  Warnings were sent to Wharton visitors who used their credit cards anytime between September of 2003 and the incident.,Dataloss DB,,2005,42.736979,-84.483865
+4-28-2005,Georgia Southern University,Stateboro,Georgia,HACK,EDU,"20,000","Hackers accessed a University server which contained thousands of credit card and Social Security numbers collected over three years.  Students who received bookstore credit through scholarship or financial aid between the fall 2003 and spring of 2005 semesters, and anyone who made credit purchases at campus stores, stadium, or website are at risk.  Email alerts were sent to students and alumni.",Dataloss DB,,2005,32.448788,-81.783167
+05/05/2005,Purdue University,West Lafayette,Indiana,HACK,EDU,"11,360",Hackers accessed a program which contained University credit card information and the Social Security numbers of current and former employees. Letters were sent to employees and former employees.,Dataloss DB,,2005,40.425869,-86.908066
+05/11/2005,Stanford University,Stanford,California,HACK,EDU,"9,900","The University's Career Development Center was hacked. This exposed the names, Social Security numbers, and other personal information of users. Names and credit card information for some employers that registered with the site were also in the database.",Dataloss DB,,2005,37.424106,-122.166076
+05/12/2005,Hinsdale Central High School,Hinsdale,Illinois,HACK,EDU,"2,400",Two students were accused of hacking into the School's computer system and stealing student and staff Social Security numbers.  The students had the information for months before being caught.  Letters were sent to affected families. The Social Security Administration and the Federal Trade Commission were also notified.,Dataloss DB,,2005,41.800864,-87.937005
+5-18-2005,University of Iowa,Iowa City,Iowa,HACK,EDU,"30,000",A computer containing credit card numbers and campus ID numbers for University Book Store customers was breached by a hacker.,Dataloss DB,,2005,41.661128,-91.530168
+5-18-2005,Jackson Community College,Jackson,Michigan,HACK,EDU,"8,000","A hacker may have downloaded the passwords and Social Security numbers of employees and students.  The College sent new, high security passwords to students and employees.",Dataloss DB,,2005,42.245869,-84.401346
+5-19-2005,Valdosta State University,Valdosta,Georgia,HACK,EDU,"40,000",A computer server containing campus ID card information and Social Security numbers was hacked. The cards were designed to be used as debit cards by students and employees.,Dataloss DB,,2005,30.832702,-83.278485
+06/04/2005,Duke University Medical Center,Durham,North Carolina,HACK,EDU,"14,000","A hacker broke into the computer system, stealing thousands of passwords and fragments of Social Security numbers.  Fourteen thousand affected people were notified, including 10,000 employees of Duke University Medical Center.",Dataloss DB,,2005,35.994033,-78.898619
+6-16-2005,CardSystems,Tucson,Arizona,HACK,BSF,"4,00,00,000","Over 40 million card accounts 
+            were exposed to potential fraud due to a security breach that occurred 
+            at a third-party processor of payment card transactions. Of the more 
+            than 40 million accounts exposed, information on 68,000 Mastercard 
+            accounts, 100,000 Visa accounts and 30,000 accounts from other card 
+            brands are known to have been exported by the hackers. The data exported 
+            included names, card numbers and card security codes.UPDATE (2/23/2006) CardSystems agreed to settle Federal Trade Commission charges that it failed to take appropriate security measures to protect sensitive personal information. The company must implement a comprehensive security program and obtain audits every 2 years for 20 years.UPDATE (5/12/2006) CardSystems filed for bankruptcy.UPDATE
+            (5/28/2009)
+
+            Merrick Bank has launched a multi-million dollar lawsuit against Savvis, 
+            accusing the vendor of erroneously telling it that CardSystems Solutions 
+            complied with Visa and MasterCard security regulations less than a 
+            year before the payment processor's systems were hacked, compromising 
+            up to 40 million credit card accounts. Less than a year later the 
+            security breach occurred. Hackers were able to get hold of the data 
+            because CardSystems kept unencrypted card information on its servers 
+            - in contravention of the regulations for which Savvis certified it. ",Dataloss DB,,2005,32.221743,-110.926479
+6-25-2005,University of Connecticut  (UCONN),Storrs,Connecticut,HACK,EDU,"72,000","University officials became aware of an October 26, 2003 hacking incident.  The personal information included Social Security numbers and addresses for students, faculty, and staff.  The University began contacting those affected in June of 2005.",Dataloss DB,,2005,41.808431,-72.249523
+07/01/2005,University of California San Diego,La Jolla,California,HACK,EDU,"3,300","A University server was hacked in April.  The server contained Social Security numbers, driver's license numbers, and credit card numbers from people who attended or worked at UCSD Extension between the time of the incident and 2000.  UCSD contacted those who were affected two months after the incident.",Dataloss DB,,2005,33.8575,-117.87556
+07/07/2005,Michigan State University,East Lansing,Michigan,HACK,EDU,"27,000","Student information was compromised during an attack on the College of Education server.  The information included Social Security numbers, names, addresses, student courses, and personal identification numbers.  The breach occurred in April and students were emailed in July.",Dataloss DB,,2005,42.736979,-84.483865
+7-21-2005,"University of Colorado, Boulder",Boulder,Colorado,HACK,EDU,"49,000","Prospective students, current students, staff, faculty and University health care service recipients may have had their data exposed in a campus server breach.  The information included names, Social Security numbers, addresses, student ID numbers, birth dates, and lab test information. The University mailed letters and sent emails to the individuals affected.UPDATE
+            (08/20/2005) The number of students affected was increased from an 
+            estimate of 42,000 to 49,000.",Dataloss DB,,2005,40.014986,-105.270546
+7-30-2005,San Diego County Employees Retirement Association,San Diego,California,HACK,GOV,"33,000","Two computers that contained personal information for current and retired San Diego County employees were hacked.  The information included names, addresses, Social Security numbers, and dates of birth.  The San Diego Retirement Association mailed warnings to members.",Dataloss DB,,2005,32.715329,-117.157255
+7-30-2005,"California State University, Dominguez Hills ",Carson,California,HACK,EDU,"9,613",Hackers accessed several computers containing personal information such as names and Social Security numbers.  The students who were affected were emailed.,Dataloss DB,,2005,33.831406,-118.282017
+7-31-2005,California State Polytechnic University (Cal PolyPomona),Pomona,California,HACK,EDU,"31,077","Hackers gained access to two computers containing names, Social Security numbers and transfer records.  Applicants, current students, current and former faculty, and staff were affected.",Dataloss DB,,2005,34.055289,-117.752279
+08/02/2005,University of Colorado,Denver,Colorado,HACK,EDU,"36,000","Hackers accessed files containing names, photographs, Social Security numbers, and University meal card information.  Around 7,000 staff members, 29,000 current students, and some former students were affected.",Dataloss DB,,2005,39.739154,-104.984703
+08/09/2005,University of Utah,Salt Lake City,Utah,HACK,EDU,"1,00,000",A server containing library archival databases was hacked.  The server included names and Social Security numbers of former University employees.  The University issued a warning that people may try to get personal information by posing as University officials involved in the investigation.,Dataloss DB,,2005,40.760779,-111.891047
+08/09/2005,Sonoma State University,Rohnert Park,California,HACK,EDU,"61,709","Hackers broke into a computer system and may have accessed the names and Social Security numbers of people who applied, attended, or worked at the University between 1995 and 2002.  University officials attempted to notify those who were affected.",Dataloss DB,,2005,38.339637,-122.701098
+08/10/2005,University of North Texas,Denton,Texas,HACK,EDU,"39,000","A server containing housing records, financial aid inquiries, and in some cases credit card numbers was hacked.  UNT sent letters to current, former, and prospective students whose information may have been accessed.",Dataloss DB,,2005,33.214841,-97.133068
+8-17-2005,"California State University, Stanislaus",Turlock,California,HACK,EDU,900,The names and Social Security numbers of student workers were exposed during a hacker attack.  The student workers were contacted by the University.,Dataloss DB,,2005,37.494657,-120.846594
+8-19-2005,University of Colorado,Denver,Colorado,HACK,EDU,"49,000","A hacker may have gained access to personal information from June of 1999 to May of 2001, and fall of 2003 to summer of 2005.  The information included current and former student names, Social Security numbers, addresses and phone numbers.  The University contacted individuals who were affected.",Dataloss DB,,2005,39.739154,-104.984703
+8-22-2005,U.S. Air Force,Washington,District Of Columbia,HACK,GOV,"33,300","A hacker used a legitimate user ID and password to access career information, birth dates, and Social Security numbers.  Those affected were notified several months after the breach was discovered.",Dataloss DB,,2005,38.895112,-77.036366
+8-30-2005,"California State University, Chancellor's Office ",Long Beach,California,HACK,EDU,154,A computer virus attack exposed names and Social Security numbers. Those affected included two financial aid administrators and 152 students enrolled at various Cal State Universities.  Those affected were contacted.,Dataloss DB,,2005,33.766962,-118.189235
+9-29-2005,University of Georgia,Athens,Georgia,HACK,EDU,"1,600","A hacker may have accessed the names and Social Security numbers of at least 1,600 people working for the College of Agricultural and Environmental Sciences.  The University is attempting to contact individuals who may have been affected.",Dataloss DB,,2005,33.960948,-83.377936
+11/11/2005,Scottrade Troy Group,Santa Ana,California,HACK,BSF,0,"A hacker compromised a server containing names, Social Security numbers, driver's licenses, state ID numbers, dates of birth, phone numbers, bank names, bank codes, bank account numbers and Scottrade account numbers.  Scottrade alerted all affected customers.",Dataloss DB,,2005,33.745573,-117.867834
+11-18-2005,Indiana University Kelley School of Business,Indianapolis,Indiana,HACK,EDU,"5,278","A hacker may have accessed the names, Social Security numbers and grades of students who enrolled in Introduction to Business courses between 2001 and 2005.  The computer may have been hacked and installed with malware as early as August.  A representative believes the breach occurred because the files were stored on a computer that did not have current anti-virus and system-protection software.",Dataloss DB,,2005,39.768377,-86.158042
+11-23-2005,University of Delaware,Newark,Delaware,HACK,EDU,952,"Two separate departments were breached by hacking within a short period of time.  A School of Education computer with the names and Social Security numbers of 772 students registered in online education courses was attacked in late August.  A Department of English computer that had the Social Security numbers of 180 faculty, graduate assistant and other teaching staff from the department was also hacked in August.  The larger breach appears to be the result of someone attempting to establish an illegal movie sharing system.  The smaller breach was a possible attempt to log onto and control one server in order to gain control over servers of other campuses.  Those affected received notification and Social Security numbers have been removed from both servers.",Dataloss DB,,2005,39.683723,-75.749657
+12/01/2005,University of San Diego,San Diego,California,HACK,EDU,"7,800","Hackers gained access to computers containing personal income tax data, including Social Security numbers, names, and addresses.  Faculty members, students and vendors had their information compromised and were notified by the University.",Dataloss DB,,2005,32.715329,-117.157255
+12/02/2005,Cornell University,Ithaca,New York,HACK,EDU,900,"The University discovered a security breach last summer that exposed names, addresses, 
+            Social Security numbers, bank names and account numbers.",Dataloss DB,,2005,42.440628,-76.496607
+12/07/2005,"Idaho State University, Office of Institutional Research ",Pocatello,Idaho,HACK,EDU,0,"ISU discovered a security 
+            breach in a server containing archival information about students, 
+            faculty, and staff, including names, Social Security numbers, birth dates, and grades. Anyone who was a student or employee between 1995 and 2005 could be affected.",Dataloss DB,,2005,42.871303,-112.445534
+12/12/2005,Iowa State University,Ames,Iowa,HACK,EDU,"5,500","At least one ISU computer was hacked. Social Security numbers and encrypted credit card numbers may have been obtained. Between 2,000 and 2,500 Social Security numbers are at risk and between 2,300 and 3,000 credit card numbers are at risk. Student, alumni, employee and volunteer information was put at risk. ",Dataloss DB,,2005,42.02335,-93.625622
+12-20-2005,"Guidance Software, Inc.            ",Pasadena,California,HACK,BSO,"3,800","A hacked database exposed credit card numbers of law enforcement officials and network security professionals.  The company is a leading provider of software used to diagnose hacked attacks.UPDATE
+            (4/3/07): The FTC came to a settlement agreement and final 
+            consent order against Guidance Software.",Dataloss DB,,2005,34.147785,-118.144516
+1-20-2006,"Indiana University, University Place Conference Center & Hotel",Indianapolis,Indiana,HACK,BSO,0,The computer housing the reservations data base was compromised. Data included credit card account numbers and names.,Security Breach Letter,,2006,39.767016,-86.156255
+1-23-2006,University of Notre Dame,Notre Dame,Indiana,HACK,EDU,0,"Hackers may have accessed Social Security numbers, credit card information and check images of people who donated to the University between November 22 of 2005 and January 12 of 2006.",,,2006,41.700191,-86.237933
+2-15-2005,ChoicePoint,Alpharetta,Georgia,INSD,BSO,"1,63,000","Fraudsters who presented themselves as legitimate ChoicePoint customers purchased data profiles from ChoicePoint on individuals and used that data to commit identity theft. The initial number of affected records was estimated at 145,000 
+                but was later revised to 163,000. 
+
+                UPDATE(1/26/06): 
+                ChoicePoint settled with the Federal 
+                Trade Commission for $10 million in civil penalties and $5 
+                million for consumer redress.
+                UPDATE (12/06/06): 
+                The FTC 
+                announced that victims of identity theft as a result of the 
+                data breach who had out-of-pocket expenses can now be reimbursed. 
+                The claims deadline is Feb. 4, 2007.
+                UPDATE (06/24/07): 
+                Starting Dec. 2006, the FTC began mailing claims forms to victims 
+                of the breach. Its Web 
+                site provides information about the claims process. Deadline 
+                is Aug. 18, 2007. Victims can be reimbursed for out-of-pocket 
+                expenses resulting from identity theft connected to the breach. 
+                Call (888) 884-8772, or email cpredress@ftc.gov. 
+
+                UPDATE (11/04/07): 
+                Since its 2005 data security incident, ChoicePoint has implemented 
+                enhancements to its privacy and information security framework 
+                including the establishment of an Office of Privacy, Ethics and 
+                Compliance to reinforce the responsible use and protection of 
+                information at ChoicePoint through policies and procedures, audit 
+                and compliance, and outreach and education. Visit www.privacyatchoicepoint.com.
+                UPDATE (1/27/08): 
+                Has agreed to pay $10 million to settle a class action lawsuit",Security Breach Letter,,2005,34.075376,-84.29409
+2-18-2005,University of Chicago Hospital,Chicago,Illinois,INSD,MED,85,The FBI launched an investigation into possible fraud by at least one hospital employee. As many as 85 patients may have been affected.  The hospital contacted all affected patients.,Dataloss DB,,2005,41.850033,-87.650052
+03/10/2005,LexisNexis,Dayton,Ohio,INSD,BSO,"3,10,000","Unauthorized individuals used IDs and passwords of legitimate 
+customers to obtain consumers' Social Security numbers, driver's license
+ numbers, and names and addresses. 
+
+
+
+
+     Most of the breaches were at the company's subsidiary 
+Seisint Inc., based in Florida. UPDATE (4/12/05) An internal investigation at LexisNexis has uncovered evidence that an additional 280,000 records may have been involved in this breach, increasing the total from 30,000 to 310,000.UPDATE
+            (06/30/06): Five men were arrested in connection with this 
+            breach.",Dataloss DB,,2005,39.758948,-84.191607
+4-28-2005,"Wachovia, Bank of America, PNC Financial Services Group and Commerce Bancorp ",Hackensack,New Jersey,INSD,BSF,"6,76,000",Bank employees illegally sold account information to someone posing as a collection agency.  Customers affected were notified and received one year of free credit monitoring services.,Dataloss DB,,2005,40.885933,-74.043474
+5-14-2005,Georgia Technology Authority (GTA),Atlanta,Georgia,INSD,GOV,"4,65,000","A former computer programmer for Georgia Technology Authority downloaded state driver's license information which contained names, addresses, driver's license numbers, and in some cases Social Security numbers.",Dataloss DB,,2005,33.748995,-84.387982
+5-16-2005,Westborough Bank,Westborough,Massachusetts,INSD,BSF,750,A former employee who ran an investment program from 1998 to 2001 may have given Social Security numbers and account information to a convicted felon known for defrauding senior citizens.  The bank mailed warning letters.,Dataloss DB,,2005,42.269539,-71.616178
+5-28-2005,Merlin Information Services,Kalispell,Montana,INSD,BSO,"5,875","An individual fraudulently obtained personal information about thousands of victims 
+from Merlin Information Services and used that information to commit 
+identity theft by opening up credit card accounts. He posed as a private investigator, thus giving Merlin the impression that he was a legitimate user of their services. He conducted at least 1,873 queries through the Merlin system to 
+obtain information on approximately 5,875 people.
+
+",Media,,2005,48.200531,-114.315102
+6-18-2005,University of Hawai'i,Honolulu,Hawaii,INSD,EDU,"1,50,000","A former librarian with access to the personal information of students, faculty, staff and patrons was convicted of Social Security fraud.  The former librarian used Social Security information to obtain fraudulent loans.  The University used Social Security numbers to track who checked out library materials. At the time of the press release it was unclear whether any information had been stolen from the University.",Dataloss DB,,2005,21.306944,-157.858333
+6-29-2005,Medica Health Plans,Minnetonka,Minnesota,INSD,MED,0,It was discovered that two employees had engaged in unauthorized activities for an extended period of time.  The computer administrators were fired for sabotaging the company's computers and downloading data.  Sensitive information for 1.2 million Medica members may have been accessed.  The former employees prolonged their activities and avoided heavier punishment by hiding and destroying evidence of their activities. ,Dataloss DB,,2005,44.913297,-93.503288
+9-28-2005,RBC Dain Rauscher,Minneapolis,Minnesota,INSD,BSF,"3,00,000","Someone claiming to be a former employee obtained customer names, addresses, tax ID number, birth date and Dain Rauscher account number.  The former employee sent letters to over 100 customers and claimed that their personal information had been sold in retaliation against the company.",Dataloss DB,,2005,44.979965,-93.263836
+1-16-2006,New York City Teachers Retirement System,New York,New York,INSD,GOV,"5,800","A dishonest employee and two others were arrested for their part in writing and cashing fraudulent checks.  Police found fraudulent checks with the names of 19 pension members and beneficiaries in the apartment of the former employee.  The employee was originally hired as a temp and had worked for the company for three years.  He had access to the information of 5,800 pension members.",Dataloss DB,,2006,40.714353,-74.005973
+1-17-2006,"City of San Diego, Water & Sewer Department",San Diego,California,INSD,GOV,0,"A dishonest employee accessed 
+            customer account files, including Social Security numbers, and stole the identities of two individuals.",Media,,2006,32.715329,-117.157255
+2-16-2006,Blue Cross and Blue Shield,Jacksonville,Florida,INSD,MED,"27,000","A contractor sent names 
+            and Social Security numbers of current and former employees, vendors 
+            and contractors to his home computer in violation of company policies.  A 
+            judge ordered the former computer consultant to reimburse the 
+            Jacksonville-based health insurer $580,000 for expenses related to 
+            his theft.",Dataloss DB,,2006,30.332184,-81.655651
+2-17-2006,"California Department of Corrections, Pelican Bay State Prison",Sacramento,California,INSD,GOV,0,"Inmates gained access to 
+            files stored in a warehouse.  The files contained employees' Social Security numbers, birth dates and 
+            pension account information.",Dataloss DB,,2006,38.581572,-121.4944
+3-14-2006,General Motors (GM),Detroit,Michigan,INSD,BSO,100,"A former security guard kept 
+            Social Security numbers of co-workers to perpetrate identity theft. The disgruntled former employee sent harassing emails to employees after gaining access to personal information including the types of cars they drove. ",Dataloss DB,,2006,42.331427,-83.045754
+04/06/2006,Progressive Casualty Insurance,Mayfield Village,Ohio,INSD,BSF,13,"A dishonest insider accessed 
+            confidential information, including names, Social Security numbers, 
+            birth dates and property addresses on foreclosure properties she was 
+            interested in buying.",Dataloss DB,,2006,39.49478,-84.37272
+4-13-2006,Fifth Third Bank,Evansville,Indiana,INSD,BSF,"1,000","An employee was able to gain access to around 1,000 customer accounts.  He used this information to stalk and harass female news celebrities.  He now faces two felony counts of attempting to defraud using personal information and two misdemeanor counts of stalking and repeated harassment.",Dataloss DB,,2006,37.974764,-87.555848
+4-14-2006,NewTech Imaging,Honolulu,Hawaii,INSD,BSO,"40,000","Records containing the 
+            names, Social Security numbers and birth dates of more than 40,000 
+            members of Voluntary Employees Benefit Association of Hawaii were illegally 
+            reproduced at a copying business before they were to be put onto a 
+            compact disc for the State. Police later found the data on a computer 
+            that had been confiscated as part of a drug investigation.  Those who were on the list and Hawaii Government Employees Association and United Public Workers members who were enrolled in union-sponsored health and group life insurance plans between July and December 1999 were warned.  Investigators were only able to speculate that the theft may have occurred in February of 2005.",Dataloss DB,,2006,21.306944,-157.858333
+05/02/2006,Countrywide Home Loans,Plano,Texas,INSD,BSF,90,A former employee is suspected of ordering customer credit reports and providing some of those reports to a third party.,Dataloss DB,,2006,33.019843,-96.698886
+5-18-2006,"American Red Cross, St. Louis Chapter ",St. Louis,Missouri,INSD,NGO,"10,00,000","A dishonest employee had access 
+            to Social Security numbers of donors.  The database was used to call previous donors and urge them to give blood 
+            again. The employee misused the personal information of at least three 
+            people to perpetrate identity theft and had access to the personal 
+            information of one million donors.",Dataloss DB,,2006,38.646991,-90.224967
+5-23-2006,Mortgage Lenders Network USA,Middletown,Connecticut,INSD,BSF,"2,31,000","A former employee was arrested 
+            for extortion for attempting to blackmail his former employer for 
+            $6.9 million. He threatened to expose company files containing sensitive 
+            customer information - including customers' names, addressess, Social 
+            Security numbers, loan numbers, and loan types - if the company didn't 
+            pay him. He stole the files over the 16 months he worked there.",Dataloss DB,,2006,41.562321,-72.650649
+06/06/2006,Empire State College,Saratoga Springs,New York,INSD,EDU,16,"On December 15 of 2005, an intruder installed key-logger was discovered on a computer that had been used to access Social Security numbers.  The keystroke capture program was installed by a relative of an employee in order to capture and read email messages that the staff member was sending.  The program was in operation from March 2004 to January 2005 and again from October 2005 to December 15.  The affected PC was removed from the office and had its hard drive scanned and cleaned.",Dataloss DB,,2006,43.08313,-73.784565
+7-13-2006,"New York State Department of Motor Vehicles (DMV), New York State Thruway Authority",,New York,INSD,GOV,57,"A Thruway employee performed searches of DMV records without authorization.  The discovery was made on December 27, but the length of time this employee engaged in the behavior was not reported.  The employee had access to all the information contained on driver's licenses.",Dataloss DB,,2006,40.714353,-74.005973
+7-29-2006,Sentry Insurance,Stevens Point,Wisconsin,INSD,BSF,"1,12,270","Personal information including 
+            SSNs on worker's compensation claimants was stolen, some of which 
+            was later sold on the Internet. At least 72 claimants of the 112,270 who may have had their information accessed had their information sold.  No medical records were included. 
+            The thief was a lead programmer-consultant who had access to claimants' 
+            data. The consultant was arrested and faces felony charges.",Dataloss DB,,2006,44.523579,-89.574563
+08/07/2006,U.S. Department of Veterans Affairs via contractor Unisys Corporation,Reston,Virginia,INSD,GOV,"5,000","A computer at contractor's 
+            office was reported missing Aug. 3.  It contained billing records with 
+            names, addresses, SSNs, and dates of birth of veterans at two Pennsylvania 
+            locations.  UPDATE (9/15/06): 
+            Law enforcement recovered the computer and arrested an individual 
+            who had worked for a company that provides temporary labor to Unisys.",Dataloss DB,,2006,38.968721,-77.341096
+08/11/2006,Madrona Medical Group,Bellingham,Washington,INSD,MED,"6,000","On Dec. 17, 2005, a former 
+            employee accessed and downloaded patient files onto his laptop computer. 
+            Files included name, address, SSN, and date of birth. The former employee 
+            has since been arrested.",Dataloss DB,,2006,48.759553,-122.488225
+8-15-2006,New Century Mortgage Corporation,Irvine,California,INSD,BSF,0,"On August 10, a former employee was found to have copied and disseminated customer information to unknown third parties.  The information included names, addresses and Social Security numbers.",Dataloss DB,,2006,33.683947,-117.794694
+09/09/2006,Cleveland Clinic,Naples,Florida,INSD,MED,"1,100","A clinic employee stole 
+            personal information from electronic files and sold it to her cousin, 
+            owner of Advanced Medical Claims, who used it to file fraudulent Medicare 
+            claims totaling more than $2.8 million. Information included names, 
+            SSNs, birthdates, addresses and other details. Both individuals were 
+            indicted.",Dataloss DB,,2006,26.142036,-81.79481
+9-15-2006,Columbia University,New York,New York,INSD,EDU,"1,132","A temporary employee accessed the personal information of some University employees and used it to establish at least one fraudulent account.  The former temp had access to the names, Social Security numbers, addresses, telephone numbers and direct deposit bank account information of a group of employees.  The University discovered the breach on August 15 and began notifying affected individuals on August 18.",Dataloss DB,,2006,40.714353,-74.005973
+9-28-2006,Stevens Hospital Emergency Room via dishonest employee of billing company Med Data,Edmonds,Washington,INSD,MED,30,"A manager for the hospital's 
+            billing company, Med Data, stole patients' credit card numbers. She 
+            gave them to her brother who bought $30,000 worth of clothes and gift 
+            cards over the Internet. The woman is scheduled for sentencing in 
+            Nov. and her brother's trial is expected Jan. 2007.",Dataloss DB,,2006,47.810652,-122.377355
+10-25-2006,"Swedish Medical Center, Ballard Campus  ",Seattle,Washington,INSD,MED,"1,100","An employee stole the names, 
+            birthdates, and Social Security numbers from patients who were hospitalized 
+            or had day-surgeries from June 22 to Sept 21. She used 3 patients' 
+            information to open multiple credit accounts.",Dataloss DB,,2006,47.60621,-122.332071
+10-30-2006,National Financial Partners (NFP),New York,New York,INSD,BSF,"4,327","A former payroll department employee may have had access to former and current employee information.  The information included Social Security numbers, addresses and birth dates.  The employee was not authorized to view the information.  It is unclear if the employee still had access to the electronic files after termination.",Dataloss DB,,2006,40.714353,-74.005973
+11/02/2006,Compulinx,White Plains,New York,INSD,BSO,50,"The CEO of Compulinx was 
+            arrested for fraudulently using employees' names, addresses, Social 
+            Security numbers and other personal information for credit purposes. 
+            (It is unclear whether customers' data was also used).",Media,,2006,41.033986,-73.76291
+11/03/2006,Several Joliet area motels,Joliet,Illinois,INSD,BSO,0,"Motel owners and employees 
+            allegedly stole and sold customers' credit card numbers.",Media,,2006,41.525031,-88.081725
+11/11/2006,"Hertz Global Holdings, Inc.",Oklahoma City,Oklahoma,INSD,BSO,0,"The names and Social Security 
+            numbers of Hertz employees dating back to 2002 were discovered on 
+            the home computer of a former employee.",Dataloss DB,,2006,35.46756,-97.516428
+11-15-2006,Expedia Corporate Travel (now Egencia),Bellevue,Washington,INSD,BSO,47,A former call center employee somehow gained access to credit card numbers and may have misused the information.  The former employee attempted to make unauthorized charges at least twice.  The discovery was made on October 24.,Dataloss DB,,2006,47.610377,-122.200679
+11-20-2006,Haywood Mortgage Associates Inc.,Bethesda,Maryland,INSD,BSF,228,"A former employee is believed to have downloaded confidential client information to a USB device shortly before leaving the company.  Client names, Social Security numbers, addresses, dates of birth, driver's license numbers, credit card account numbers, mortgage loan account numbers, auto and personal loan numbers, employment information and credit reports could have been taken.  The incident occurred sometime around September 7.  Clients were notified on January 8 of 2007.",Dataloss DB,,2006,38.980666,-77.100256
+11-29-2006,Gundersen Lutheran Medical Center,LaCrosse,Wisconsin,INSD,MED,0,"A Medical Center employee 
+            used patient information, including SSNs and dates of birth, to apply 
+            for credit cards in their names. As patient liaison, her duties included 
+            insurance coverage, registration, and scheduling appointments. She 
+            was arrested for 37 counts of identity theft, and was convicted of 
+            identity theft and uttering forged writing, according to the criminal 
+            complaint.",Media,,2006,43.801356,-91.239581
+08/04/2005,Anderson College,Anderson,North Carolina,PHYS,EDU,800,A bag with student resident hall assignments was found on campus.  The paperwork also had the students' Social Security numbers.  The documents were destroyed and a new program that will prevent unauthorized faculty and staff from accessing student Social Security numbers was developed.,Dataloss DB,,2005,36.267081,-79.345299
+08/05/2005,Madison Area Technical College,Madison,Wisconsin,PHYS,EDU,100,"A news crew found around 100 applications in a MATC dumpster.  The applications showed names, contact information, Social Security numbers, birth dates, academic records and canceled checks.  The applications and transcripts go back to at least 2002.  The College agreed to lock the dumpster and destroy documents in a trash compactor on a more frequent basis.  It did not state that it would begin shredding documents before dumping them.",Dataloss DB,,2005,43.073052,-89.40123
+08/09/2005,Federal Reserve Bank of Dallas,Dallas,Texas,PHYS,GOV,0,"A truck driver lost thousands of Federal Reserve Bank checks headed to Houston.  It seems that the back door of the truck was not closed when the driver left the loading area.  Paid and canceled checks with Social Security numbers, names, addresses and signatures were scattered on the highway between Dallas and Houston. Most of the checks were not recovered.",Dataloss DB,,2005,32.802955,-96.769923
+9-22-2005,Internal Revenue Service (IRS),San Francisco,California,PHYS,GOV,"30,000","A truck carrying checks with tax information for the self-employed was involved in an accident on the San Mateo Bridge.  Wind blew about 30,000 pieces of mail into the bay and beyond.  The IRS agreed to waive penalties and interest for anyone whose payment was affected.",Dataloss DB,,2005,37.77493,-122.419416
+10/08/2005,Blockbuster,New York,New York,PHYS,BSR,0,"Hundreds of files were dumped in clear garbage bags on the street.  Recent membership applications revealed customer names, birth dates, addresses, phone numbers, driver's license numbers, credit card number, credit card expiration date and signatures.  For some strange reason, the applications also included customer Social Security numbers.  The files were dumped after the store went out of business.",Dataloss DB,,2005,40.714353,-74.005973
+12/08/2005,Federal Reserve Bank of Dallas,Dallas,Texas,PHYS,GOV,"8,000","A courier truck dropped canceled personal and business checks on northbound Central Expressway near Woodall Rodgers Freeway around 4 a.m.  The incident closed the freeway exit until 7 a.m.  Employees from the Federal Reserve, the courier company and the Texas Department of Transportation removed many checks, though some disappeared.  Some unaffiliated people also returned checks to the authorities.  A very similar incident happened in August of 2005.",Dataloss DB,,2005,32.802955,-96.769923
+12/09/2005,Oregon Community Credit Union,Springfield,Oregon,PHYS,BSF,200,"A packet of insurance forms with names, Social Security numbers and addresses of around 200 Oregon Community Credit Union employees was inside of a stolen car. Someone tried to use the identity of an employee after the theft.  The company is on alert and purchased extended identity theft insurance for those who were affected by the theft.",Dataloss DB,,2005,44.046236,-123.022029
+12-21-2005,Sunrise Volkswagen,Lynbrook,New York,PHYS,BSR,0,"Bank credit applications with names, Social Security numbers, addresses, telephone numbers, employment information and signatures were obtained by unauthorized access between December 15 and 16.  ",Dataloss DB,,2005,40.654825,-73.671797
+1-21-2006,California Army National Guard,Sacramento,California,PHYS,GOV,200,"A briefcase with personal 
+            information of National Guardsmen including a seniority roster, 
+            Social Security numbers and dates of birth was stolen from the car of an employee.  A memo was sent to National Guard soldiers.",Dataloss DB,,2006,38.581572,-121.4944
+2-20-2006,Alltel Corporation,Little Rock,Arkansas,PHYS,BSR,0,"Customer files with cell phone records, Social Security numbers, addresses and phone numbers were found in a dumpster.  A landscaper discovered the files and alerted a news crew. A spokesperson for the company said that this is against their official electronic policy.",Dataloss DB,,2006,34.746481,-92.289595
+03/02/2006,Los Angeles County Department of Social Services,Los Angeles,California,PHYS,GOV,"20,00,000","File boxes containing names,              dependents, Social Security numbers, telephone numbers, medical information,              employer, W-2, and date of birth were left unattended for at least one month.  This affects employees and clients.",Dataloss DB,,2006,34.052234,-118.243685
+03/11/2006,California Department of Consumer Affairs (DCA),Sacramento,California,PHYS,GOV,0,"Mailed applications 
+            of DCA licensees or prospective licensees for CA state boards and 
+            commissions were stolen. The forms include full or partial Social 
+            Security numbers, driver's license numbers, and potentially payment 
+            checks.",Dataloss DB,,2006,38.581572,-121.4944
+06/07/2006,Colorado Mental Health Institute Fort Logan,Denver,Colorado,PHYS,GOV,69,"A briefcase with paper files was taken from an employee's car while it was at a park on April 21.  The briefcase contained paper files with the information of 40 employees and 247 patients.  Only 29 employees and 40 patients had their Social Security numbers exposed.  Other information included names, addresses, gender and birth dates.  Those affected were notified in early June.",Dataloss DB,,2006,39.739154,-104.984703
+06/08/2006,University of Michigan Credit Union,Ann Arbor,Michigan,PHYS,BSF,"5,000","Paper documents containing 
+            personal information of credit union members were stolen from a storage 
+            room. The documents were supposed to have been digitally imaged and 
+            then shredded. Instead, they were stolen and used to perpetrate identity 
+            theft.",Dataloss DB,,2006,42.270872,-83.726329
+06/11/2006,Denver Election Commission,Denver,Colorado,PHYS,GOV,"1,50,000","Records containing personal 
+            information on more than 150,000 voters are missing at city election 
+            offices. The microfilmed voter registration files from 1989 to 1998 
+            were in a 500-pound cabinet that disappeared when the commission moved 
+            to new offices in February. The files contain voters' Social Security 
+            numbers, addresses and other personal information.",Dataloss DB,,2006,39.739154,-104.984703
+6-16-2006,California Department of Health Services (CDHS),Sacramento,California,PHYS,GOV,"1,550","CDHS documents were 
+              inappropriately emptied from an employee's cubicle on June 5 and 
+              9 rather than shredded. 
+              The documents contained state employees and other individuals applying 
+              for employment with the state including names, addresses, Social 
+              Security numbers and home and work telephone numbers. They were 
+              mostly expired state employment certification lists, but also included 
+              requests for personnel action, copies of e-mail messages and handwritten 
+              notes.",Dataloss DB,,2006,38.581572,-121.4944
+6-17-2006,California Department of Health Services (CDHS),Sacramento,California,PHYS,GOV,"1,550","On June 12, a box of 
+              Medi-Cal forms from December 2005 were found in the cubicle of a 
+              California Dept. of Health Services employee. The claim forms contained the names, addresses, Social 
+              Security numbers and prescriptions for beneficiaries or their family 
+              members.",Dataloss DB,,2006,38.581572,-121.4944
+6-27-2006,Empire Beauty School Inc.,Brooklyn,New York,PHYS,EDU,"1,132","The June 20 theft of a briefcase from an administrative employee's vehicle caused reports with the names and Social Security numbers of former students to be lost. A laptop was also stolen during the burglary, but it is unlikely that it had personal information.",Dataloss DB,,2006,40.65,-73.95
+7-24-2006,Heritage Centers,Buffalo,New York,PHYS,MED,31,"An employee's briefcase was stolen from her car on June 18.  The briefcase contained a list of the names, addresses, Social Security numbers, phone numbers, dates of birth and genders of 31 individuals.",Dataloss DB,,2006,42.886447,-78.878369
+08/01/2006,US Bank,Covington,Kentucky,PHYS,BSF,0,"A bank employee's briefcase 
+            was stolen from the employee's car with documents containing names, 
+            phone numbers, and SSNs of customers.",Dataloss DB,,2006,39.083671,-84.508554
+08/04/2006,PSA HealthCare,Norcross,Georgia,PHYS,MED,"51,000","A company laptop was stolen 
+            from an employee's vehicle in a public parking lot July 15. It contained 
+            names, addresses, SSNs, and medical diagnostic and treatment information 
+            used in reimbursement claims.",Dataloss DB,,2006,33.941213,-84.213531
+08/08/2006,Linens 'n Things,Sterling,Virginia,PHYS,BSR,90,"A folder holding about 90 
+            receipts was missing from the store. Receipts included full credit 
+            or debit account number and name of the card holder.",Dataloss DB,,2006,39.00622,-77.428599
+08/08/2006,Chautauqua County Department of Social Services,Jamestown,New York,PHYS,GOV,12,Paperwork being used in Medicaid fraud investigations was stolen from an employee's car.  The theft occurred sometime between July 31 and August 1.  People who were being investigated may have had their private information exposed.,Dataloss DB,,2006,42.097002,-79.235326
+08/10/2006,Weyerhaeuser Company,Washington,District Of Columbia,PHYS,BSR,"1,597",A book containing payroll data was stolen.,Dataloss DB,,2006,38.895112,-77.036366
+8-22-2006,Beaverton School District,Beaverton,Oregon,PHYS,EDU,"1,600","Time slips revealing personal 
+            information were missing and presumed stolen following a July 24 break-in 
+            at a storage shed on the administration office's property. The time 
+            slips included names and SSNs but not addresses.",Dataloss DB,,2006,45.487062,-122.80371
+09/11/2006,Telesource via Veksta,Indianapolis,Indiana,PHYS,BSO,0,"Employees discovered their 
+            personnel files in a Dumpster after the company had been bought out 
+            by another company Vekstar. The files were discarded when the office 
+            was being cleaned out and shut down. Files contained SSNs, dates of 
+            birth and photocopies of SSN cards and driver's licenses.",Dataloss DB,,2006,39.767016,-86.156255
+9-14-2006,Illinois Department of Corrections (IDOC),Springfield,Illinois,PHYS,GOV,"16,500","A document containing employees' 
+            personal information was found outside the agency's premises where 
+            it should not have been. It has since been retrieved. Information 
+            included employees' names, SSNs, and salaries.",Dataloss DB,,2006,39.801717,-89.643711
+9-15-2006,Whistle Junction restaurant,Orlando,Florida,PHYS,BSO,0,"Personnel files of employees 
+            of the now-closed restaurant were found in a nearby Dumpster. Papers 
+            included names and SSNs of former employees,",Dataloss DB,,2006,28.538336,-81.379237
+9-20-2006,Berry College via consultant Financial Aid Services Inc.,Mount Berry,Georgia,PHYS,EDU,"2,093","Student applications for 
+            need-based financial aid were misplaced by a consultant -- in both 
+            paper and digital form. Data included name, SSN, and reported family 
+            income for students and potential students for the 2005-06 academic 
+            year.",Dataloss DB,,2006,34.275093,-85.183284
+9-21-2006,Pima County Health Department,Tucson,Arizona,PHYS,GOV,"2,500","Vaccination records on 2,500 
+            clients had been left in the trunk of a car that was stolen Sept. 
+            12. The car and records have since been recovered. Records included 
+            names, dates of birth and ZIP codes, but no SSNs or addresses.",Dataloss DB,,2006,32.221743,-110.926479
+9-22-2006,Several Indianapolis pharmacies,Indianapolis,Indiana,PHYS,MED,0,"Earlier this year a local 
+            TV reporter from WTHR found that dozens of pharmacies 
+            disposed of customer records in unsecured garbage bins. Now the Indiana 
+            Board of Pharmacy has launched an investigation of 30 pharmacies. 
+            Both the Board and the Attorney General say that the pharmacies violated 
+            state law.",Media,,2006,39.767016,-86.156255
+9-25-2006,Movie Gallery US,Gastonia,North Carolina,PHYS,BSR,"3,800","A large number of Movie 
+              Gallery's files and videos were found in a dumpster. The files contained 
+              personal information of people employed by Movie Gallery and people 
+              applying for jobs at the video store as well as people applying 
+              for movie rental membership. Movie Gallery has agreed 
+              to pay $50,000 to the State of NC for the breach.",Dataloss DB,,2006,35.262082,-81.187301
+9-28-2006,Illinois Department of Transportation (IDOT),Springfield,Illinois,PHYS,GOV,40,"Documents found by state 
+              auditors in recycling bins in a hallway contained IDOT employee 
+              names and SSNs.",Media,,2006,39.801717,-89.643711
+10-13-2006,Ohio Ethics Commission,Columbus,Ohio,PHYS,GOV,0,"Papers belonging to the 
+            Ohio Ethics Commission were found floating on the wind in an alley. 
+            The documents are related to state employees' finances and contained 
+            SSNs and financial statements. They were supposed to be in the possession 
+            of the state archives.",Dataloss DB,,2006,39.961176,-82.998794
+10-16-2006,"Dr, Charles Kay of Orchard Family Practice",Englewood,Colorado,PHYS,MED,100,"Sheriff's deputies evicting 
+            Dr. Charles Kay put files from his office in a nearby parking lot. 
+            In a news report, Dr. Kay said he had removed the patient files but 
+            not the business files.",Media,,2006,39.647765,-104.98776
+10-17-2006,"City of Visalia, Recreation Division",Visalia,California,PHYS,GOV,200,"Personally identifiable 
+            information of approximately 200 current and former Visalia Recreation 
+            Department employees was exposed when copies of city documents were 
+            found scattered on a city street.",Dataloss DB,,2006,36.330228,-119.292059
+10-24-2006,Bethpage Federal Credit Union,Bethpage,New York,PHYS,BSF,106,"A courier's envelope was delivered to the Credit Union ripped and missing the twenty reports it was supposed to contain.  Some of the reports contained confidential information such as name, address, telephone number, credit card number, and financial institution checking account number.",Dataloss DB,,2006,40.744266,-73.482069
+10-26-2006,Empire Equity Group,Charlotte,North Carolina,PHYS,BSF,0,"Mortgage files that included 
+            personal financial details about loan applicants were found in a dumpster. 
+            Empire Equity will pay 
+            $12,500 to the State of NC.",Dataloss DB,,2006,35.227087,-80.843127
+11/10/2006,NYS Higher Education Services,Albany,New York,PHYS,EDU,49,"Paper documents were lost when the package containing them was damaged by a carrier's mechanical equipment.  The documents may have been thrown away by the carrier.  The information on the documents included name, Social Security number and address. At least 49 New York residents were affected, but the total number of people affected nationwide was not disclosed.",Dataloss DB,,2006,42.652579,-73.756232
+11-20-2006,Administration for Children's Services,New York,New York,PHYS,GOV,200,"More than 200 case files 
+              from the Emergency Children's Services Unit of ACS were found on 
+              the street in a plastic garbage bag. The files contain sensitive 
+              information of families, social workers and police officers.",Dataloss DB,,2006,40.714269,-74.005973
+1-22-2005,University of Northern Colorado,Greeley,Colorado,PORT,EDU,"15,790","A hard drive was lost or stolen. It contained information on current and former University 
+            employees and their beneficiaries and dates back to April of 1997.  Names, dates of birth, SSNs, addresses, 
+            bank account numbers and routing numbers may have been accessed.",Dataloss DB,,2005,40.423314,-104.709132
+2-25-2005,Bank of America Corp.,Charlotte,North Carolina,PORT,BSF,"12,00,000","Computer tapes with credit card information, Social Security numbers, addresses and account numbers were lost.  Bank of America began monitoring the customer accounts on the lost tapes and said it would contact cardholders if unusual activity was detected.  Around 900,000 of the account holders affected were Defense Department employees.",Dataloss DB,,2005,35.227087,-80.843127
+03/11/2005,"University of California, Berkeley",Berkeley,California,PORT,EDU,"98,400","A laptop containing the Social Security numbers of doctoral degree recipients from 1976 to 1999, graduate students enrolled between 1989 and 2003, and graduate school applicants between fall 2001 and spring of 2004 was stolen.  Birth dates and addresses for about one-third of the affected people were also on the laptop.",Dataloss DB,,2005,37.871593,-122.272747
+04/05/2005,MCI,Colorado Springs,Colorado,PORT,BSO,"16,500","A laptop containing names and Social Security numbers of current and
+former employees was stolen from the car trunk of an MCI financial
+analyst.  An MCI spokesperson stated that MCI would continue its policy
+of allowing laptops to be taken home by employees and will evaluate new
+security technologies.",Dataloss DB,,2005,38.833882,-104.821363
+4-15-2005,California Department of Health Services,Sacramento,California,PORT,GOV,"21,600","A laptop containing the names, Social Security numbers, and medical information of Medi-Cal beneficiaries was stolen from the car trunk of an employee.  The Department of Health Services began notifying beneficiaries in late May.",Dataloss DB,,2005,38.581572,-121.4944
+4-20-2005,TD Ameritrade,Omaha,Nebraska,PORT,BSF,"2,00,000","A backup tape was lost, stolen, or accidentally destroyed while being shipped.  The tape contained account information from clients or former clients between the years of 2001 and 2003.  Ameritrade notified the affected clients and offered one free year of credit protection services.",Dataloss DB,,2005,41.254006,-95.999258
+4-29-2005,Oklahoma State University,Stillwater,Oklahoma,PORT,EDU,"37,000",A laptop used for student job placement seminars was lost or stolen.  It contained the Social Security numbers of current and former students.,Dataloss DB,,2005,36.115607,-97.058368
+05/02/2005,"Time Warner, Iron Mountain Inc.",New York,New York,PORT,BSO,"6,00,000",Backup tapes containing the personal information of current and former employees from as far back as 1986 was lost or stolen during shipping. An 800 number was set up to answer questions and provide free credit monitoring for one year.UPDATE (5/3/2005): A contractor named Iron Mountain Inc. lost the tapes during shipping. ,Dataloss DB,,2005,40.714353,-74.005973
+05/04/2005,Colorado Health Department,Denver,Colorado,PORT,GOV,"1,600","A laptop containing Social Security numbers, medical records, family medical history, and addresses was stolen from an employee's car.  The State Health Department is not monitoring the affected group and has only contacted some of the families involved.",Dataloss DB,,2005,39.739154,-104.984703
+05/07/2005,Department of Justice,Washington,District Of Columbia,PORT,GOV,"80,000",A laptop containing password protected names and travel account credit card information was stolen sometime between May 7 and May 9.,Dataloss DB,,2005,38.895112,-77.036366
+5-27-2005,Cleveland State University,Cleveland,Ohio,PORT,EDU,"44,420","A laptop containing personal information from applicants, current students, and former students was stolen from the University's admissions office.  The information included Social Security numbers and addresses from as far back as 2001.  Letters were sent to those affected.   UPDATE 
+            (12/24/05):CSU 
+            found the stolen laptop",Dataloss DB,,2005,41.499495,-81.695409
+06/06/2005,"Citigroup, UPS",New York,New York,PORT,BSF,"39,00,000",Customers are being notified that backup tapes containing their account information were lost or stolen while being shipped by UPS.,Dataloss DB,,2005,40.714269,-74.005973
+6-17-2005,Kent State University,Kent,Ohio,PORT,EDU,"1,400","A laptop containing the names, Social Security numbers, and in some cases birthdays of current and former University employees was stolen from a human resources administrator's car.  ",Dataloss DB,,2005,41.153667,-81.357886
+6-22-2005,Eastman Kodak,Rochester,New York,PORT,BSO,"5,800","A password-protected laptop containing former employee names, Social Security numbers, birth dates, and benefits information was stolen from a consultant's car trunk. The consulting company has been identified as Hewitt Associates. Kodak sent letters and offered one-year of credit monitoring services and identity theft insurance covering up to $50,000 in fraud.",Dataloss DB,,2005,43.154785,-77.615557
+6-27-2005,U.S. Department of Veterans Affairs,Minneapolis,Minnesota,PORT,GOV,66,"A laptop being stored in 
+            the trunk of a car was stolen in Minneapolis, Minnesota. Two people 
+            later reported identity fraud problems.",Dataloss DB,,2005,44.979965,-93.263836
+6-29-2005,Bank of America,Charlotte,North Carolina,PORT,BSF,"18,000","A laptop containing the names, Social Security numbers, and addresses of customers was stolen from a consultant's car.",Dataloss DB,,2005,35.227087,-80.843127
+6-30-2005,"Ohio State University Medical Center, MTE Consulting",Columbus,Ohio,PORT,MED,"15,000",A laptop containing patient information was stolen from a financial consultant.  MTE Consulting notified OSU medical center a month after the laptop was stolen and OSU sent a brief letter to the affected clients.,Dataloss DB,,2005,39.961176,-82.998794
+07/06/2005,"City National Bank, Iron Mountain",Los Angeles,California,PORT,BSF,0,"Two tapes containing Social Security numbers, account numbers, and other customer information were lost or stolen during transportation.  The tapes have been missing since April.  City National Bank notified its customers.",Dataloss DB,,2005,34.052234,-118.243685
+7-13-2005,Arizona Biodyne,Phoenix,Arizona,PORT,MED,"57,000","A safe with computer backup tapes containing financial, personal and medical records was stolen from Arizona Biodyne.  Policyholders' addresses, phone numbers, dates of birth and Social Security numbers were among the personal information lost.  Partial treatment histories and doctor information for some patients was also lost.  ",Dataloss DB,,2005,33.448377,-112.074037
+8-27-2005," University of Florida, Health Sciences Center, ChartOne",Gainesville,Florida,PORT,EDU,"3,851","A contractor's laptop containing patient names, Social Security numbers, dates of birth, and medical record numbers was stolen.  A letter was sent to the affected patients.",Dataloss DB,,2005,29.651634,-82.324826
+8-29-2005,Iowa Student Loan,Des Moines,Iowa,PORT,BSF,0,"A CD-Rom including Social Security numbers, last name and state of residence was lost while in transit from an outside business partner.",Security Breach Letter,,2005,41.600545,-93.609106
+8-30-2005,JP Morgan Chase & Co.,Dallas,Texas,PORT,BSF,0,"A laptop was stolen on August 8th.  It contained 
+            personal and financial account information of customers.  Those affected were contacted.",Dataloss DB,,2005,32.802955,-96.769923
+09/02/2005,Iowa Student Loan,West Des Moines,Iowa,PORT,BSF,"1,65,000","A compact disk containing 
+            personal information, including SSNs, was lost when shipped by private 
+            courier.",Dataloss DB,,2005,41.577212,-93.711332
+9-13-2005,Fort Carson,Colorado Springs,Colorado,PORT,GOV,"9,300","Four computer hard drives were stolen from the Soldier Readiness Processing center during the weekend of August 20.  Personnel records with names, Social Security numbers, ages, ranks, jobs, citizenship information and unit affiliations of soldiers, civilian federal employees and contractors who had been processed through the center since January were on the hard drives.",Dataloss DB,,2005,38.833882,-104.821363
+9-17-2005,North Fork Bank (now Capital One Bank),New York,New York,PORT,BSF,"9,000","A laptop containing mortgage data was stolen from a North Fork Bank office on the weekend of July 24 of 2005.  Personal information included names, addresses, and mortgage account numbers.  Affected customers were contacted and offered one year of free credit monitoring services from Equifax.",Dataloss DB,,2005,40.714269,-74.005973
+9-19-2005,Children's Health Council,San Jose,California,PORT,NGO,"6,700","A tape containing sensitive information was stolen from a Children's Health Council office. The tape contained names, Social Security numbers, and detailed medical information for around 6,000 current and former clients.  Payroll information for 700 current and former employees was also on the tape.  The agency alerted those who may be at risk of identity theft.",Dataloss DB,,2005,37.339386,-121.894956
+9-23-2005,Bank of America,Charlotte,North Carolina,PORT,BSF,0,"A laptop was stolen from a Bank of America service provider.  Information such as names, account numbers, routing transit numbers, and credit card numbers were compromised by the theft.  An unspecified number of Visa Buxx users were contacted by Bank of America.",Dataloss DB,,2005,35.227087,-80.843127
+10-21-2005,Wilcox Memorial Hospital,Lihue,Hawaii,PORT,MED,"1,30,000","A backup computer data drive containing medical record numbers, addresses, names and Social Security numbers of current and former patients was lost.  Letters have been sent to affected patients.",Dataloss DB,,2005,21.981111,-159.371111
+11/01/2005,University of Tennessee Medical Center,Knoxville,Tennessee,PORT,MED,"3,800","A laptop was stolen from the University's medical billing office.  Personal information lost included names, Social Security numbers and birth dates.  Affected patients were not informed of the theft for nearly two months.",Dataloss DB,,2005,35.960638,-83.920739
+11/05/2005,"Safeway, Hawaii ",Pleasanton,California,PORT,BSR,"1,400",A division director's laptop was stolen.  Names and Social Security numbers of some Hawaii workers were compromised by the theft.  The theft occurred in August and letters were sent to affected employees in October.,Dataloss DB,,2005,37.662431,-121.874679
+11/10/2005,State of California - Department of Corrections and Rehabilitations (CDCR) Parole Outpatient Clinic,Sacramento,California,PORT,MED,0,"On or around June 18, 2005 a laptop computer was stolen with information on parolees. It was unclear from the letter we recieved whether Social Security numbers were involved.  ",Security Breach Letter,,2005,38.581572,-121.4944
+11-19-2005,Boeing,Chicago,Illinois,PORT,BSO,"1,61,000","A laptop containing names, Social Security numbers, bank account information and other human resources data was stolen.  Affected current and former employees were notified.",Dataloss DB,,2005,41.850033,-87.650052
+12/01/2005,First Trust Bank,Memphis,Tennessee,PORT,BSF,"1,00,000",A man claiming to be a janitor bypassed security and stole a laptop from the bank.  The laptop contained Social Security numbers and other personal information of current and former customers.  Affected customers were contacted and the theft was caught on tape.,Dataloss DB,,2005,35.149534,-90.04898
+12/06/2005,Washington State Employment Security Department,Olympia,Washington,PORT,GOV,530,"A laptop was stolen from the trunk of an auditor's car. Names, Social Security numbers 
+            and earnings of former employees from 2002 to 2005 were exposed.  The Employment Security Department does not have all of the contact information for those affected and used the media to help notify those whose information was compromised.  The laptop contained unemployment insurance reports for 49 Seattle businesses that were undergoing routine audits by Employment Security between November 2004 and October 2005..",Dataloss DB,,2005,47.037874,-122.900695
+12/08/2005,San Antonio Independent School District,San Antonio,Texas,PORT,EDU,"1,000","A laptop with personal information of more than a thousand teachers was stolen from an employee's unlocked car.  The information included names, Social Security numbers and dates of birth. ",Dataloss DB,,2005,29.424122,-98.493628
+12-16-2005,"La Salle Bank, ABN AMRO Mortgage Group, DHL",Ann Arbor,Michigan,PORT,BSF,"20,00,000",A backup              tape with residential mortgage customers' information was lost in shipment by DHL.  It              contained Social Security numbers and account information. UPDATE              (12/20/05): DHL found the lost tape.,Security Breach Letter,,2005,42.270872,-83.726329
+12-25-2005,Ameriprise Financial Inc.,Minneapolis,Minnesota,PORT,BSF,"2,26,000","A laptop was stolen from 
+            an employee's car on Christmas eve. It contained customers' names and 
+            Social Security numbers and in some cases, Ameriprise account information. Around 68,000 customers had their names and Social Security numbers exposed.  Around 158,000 customers had their names and internal account numbers exposed.
+            UPDATE (08/01/06): The 
+            laptop was recovered by local law enforcement in the community where 
+            it was stolen.  UPDATE
+            (12/11/06): The company settled with the Massachusetts securities 
+            regulator in the office of the Secretary of State. Ameriprise agreed 
+            to hire an independent consultant to review its policies and procedures 
+            for employees' and contractors' use of laptops containing personal 
+            information. Ameriprise will pay the state regulator $25,000 for the 
+            cost of the investigation.",Dataloss DB,,2005,44.979965,-93.263836
+12-28-2005,Marriott International Inc.,Orlando,Florida,PORT,BSR,"2,06,000",It is unclear whether backup computer tapes with credit card account information and Social Security numbers were lost or stolen from headquarters during November. Employees and time-share owners and customers were affected.,Dataloss DB,,2005,28.538336,-81.379237
+01/12/2006,People's Bank,Bridgeport,Connecticut,PORT,BSF,"90,000","A computer tape containing 
+            names, addresses, Social Security numbers, and checking account numbers was lost while being transported by UPS.  The bank alerted the affected customers and provided them with a credit monitoring service for one year.",Dataloss DB,,2006,41.167041,-73.204835
+1-24-2006,University of Washington Medical Center,Seattle,Washington,PORT,MED,"1,600","Laptops containing 
+            names, Social Security numbers, maiden names, birth dates, diagnoses 
+            and other personal data were stolen from a UW office.  The information was password protected and the affected patients were notified.",Dataloss DB,,2006,47.60621,-122.332071
+02/12/2005,Science Applications International Corp. (SAIC),San Diego,California,STAT,BSO,"45,000","On January 25 thieves broke 
+            into a SAIC facility and stole computers containing personal information of past and current employees. Stolen information 
+            included names, Social Security numbers, addresses, phone numbers and records of financial 
+            transactions.",Dataloss DB,,2005,32.715329,-117.157255
+03/12/2005,Las Vegas Department of Motor Vehicles (LV DMV),Las Vegas,Nevada,STAT,GOV,"8,900","A computer and holographic 
+laminate materials were stolen from the Donovan office of the DMV in 
+North Las Vegas. UPDATE. The equipment was 
+recovered on June 1. ",Dataloss DB,,2005,36.114646,-115.172816
+04/08/2005,San Jose Medical Group,San Jose,California,STAT,MED,"1,87,000","UPDATE(10/10/07): 
+              A former branch manager at the San Jose Medical Group has been sentenced 
+              to almost two years in prison for stealing medical records for about 
+              187,000 patients. The accused pleaded guilty in May to one count 
+              of health care-related theft after he stole computer equipment from 
+              his former employer, including a DVD that contained patients' names, 
+              Social Security numbers, medical diagnoses and other information.",Dataloss DB,,2005,37.339386,-121.894956
+4-26-2005,Christus St. Joseph's Hospital,Houston,Texas,STAT,MED,"16,000","Two computers used for converting paper medical records into digital files were stolen.  One of the computers contained Social Security numbers and medical records for hundreds of patients.  Letters were sent to about 16,000 patients.",Dataloss DB,,2005,29.763284,-95.363272
+5-30-2005,Motorola,Schaumburg,Illinois,STAT,BSO,0,Two computers were stolen from third party vendor Affiliated Computer Services (ACS).  They had security safeguards and contained names and Social Security numbers of Motorola employees.  Motorola notified affected staff by email and offered fraud insurance coverage.,Dataloss DB,,2005,42.033361,-88.083406
+09/10/2005,Kent State University,Kent,Ohio,STAT,EDU,"1,00,000","Five desktop computers were stolen from the locked offices of two deans. Names, Social Security numbers, and grades were on the computers.  The information goes back to 2000 for students and 2002 for instructors.  Affected students and professors were alerted by the University.",Dataloss DB,,2005,41.153667,-81.357886
+11/04/2005,"Keck School of Medicine, University of Southern California (USC)",Los Angeles,California,STAT,EDU,"50,000","A computer server containing names and Social Security numbers of patients, donors and employees was stolen from a campus computer room.",Security Breach Letter,,2005,34.052234,-118.243685
+11/09/2005,TransUnion Credit Bureau,Chester,Pennsylvania,STAT,BSF,"3,623",A desktop containing Social Security numbers and other information was stolen from a regional sales office in California.  Affected consumers were notified and offered one year of free credit monitoring services.,Dataloss DB,,2005,39.849557,-75.355746
+11/11/2005,Georgia Tech University Office of Enrollment Services,Atlanta,Georgia,STAT,EDU,"13,000","On October 16 of 2005 computers were stolen from campus which contained the names, Social Security numbers, addresses and birth dates of current and prospective students. Notifications were sent to those who were affected.",Dataloss DB,,2005,33.748995,-84.387982
+12-22-2005,Ford Motor Co.,Dearborn,Michigan,STAT,BSO,"70,000","A computer containing names and 
+            Social Security numbers of current and former employees was stolen.  Ford alerted those who were affected and offered to pay for their credit monitoring services.",Dataloss DB,,2005,42.32226,-83.176315
+01/01/2006,"University of Pittsburgh Medical Center, Squirrel Hill Family Medicine",Pittsburgh,Pennsylvania,STAT,MED,700,"Six computers containing names, 
+            Social Security numbers, and birth dates of patients were stolen from doctors' offices. A letter was sent notifying the affected patients.",Dataloss DB,,2006,40.440625,-79.995886
+1-15-2006,Illinois Education Association,Springfield,Illinois,STAT,NGO,0,"Two laptops, six desktops and a digital camera were stolen from the Illinois Education Association office sometime prior to the week of January 3. Some of the computers contained Social Security numbers of members.  Many member organizations were affected.  Over 2,400 members from the Elgin Area School District were affected.",Dataloss DB,,2006,39.781721,-89.650148
+1-25-2006,University of Delaware,Newark,Delaware,STAT,EDU,159,Two separate breaches occurred on the campus during November and December.  A computer from the School of Urban Affairs and Public policy was hacked and a back-up hard drive was stolen from the Department of Entomology and Wildlife Ecology.  The hacking incident occurred between November 22 and 26 and exposed the Social Security numbers of 159 graduate students.  The hard drive theft occurred between December 16 and 18 and the personal information of an unknown number of people was exposed.,Dataloss DB,,2006,39.683723,-75.749657
+1-26-2006,College of St. Scholastica,Duluth,Minnesota,STAT,EDU,"12,000",A computer was stolen from a locked office in the College's information Technology Department on or around December 24.  The computer had Social Security numbers and names of current and former students. The thief was caught and claims that none of the personal information was used.,Dataloss DB,,2006,46.786672,-92.100485
+02/02/2006,Presbyterian Healthcare Service,Albuquerque,New Mexico,STAT,MED,450,"The theft of a computer may have exposed patient and physician information. Names, Social Security numbers, addresses, phone numbers and credit card numbers were on the computer.  The computer may have been stolen for the purpose of committing identity theft.",Dataloss DB,,2006,35.084491,-106.651137
+03/06/2006,First Horizon Home Loans,Lake Oswego,Oregon,STAT,BSF,8,"A desktop computer was stolen from one of First Horizon's financial centers.  The desktop contained customer and client files with names, addresses, phone numbers, Social Security numbers and mortgage account numbers.",Dataloss DB,,2006,45.420675,-122.67065
+4-24-2006,University of Virginia,Charlottesville,Virginia,STAT,EDU,0,"A stolen computer contained the information of students who took engineering classes.  The information included names, grades and student identification numbers.  Hundreds of students are at risk of identity theft since Social Security numbers were used as student identification numbers.",Dataloss DB,,2006,38.029306,-78.476678
+05/02/2006,Georgia State Government,Atlanta,Georgia,STAT,GOV,0,"Government surplus computers 
+            that sold before their hard drives were erased contained credit card 
+            numbers, birth dates, and Social Security numbers of Georgia citizens.  The State stopped selling the computers after being notified by a buyer.  Thousands of patient records from a psychiatric hospital in Rome, Georgia were found on one computer's hard drive.",Dataloss DB,,2006,33.748995,-84.387982
+05/05/2006,Wells Fargo,San Francisco,California,STAT,BSF,0,"A computer containing names, 
+            addresses, Social Security numbers and mortgage loan deposit numbers 
+            of existing and prospective customers may have been stolen while being 
+            delivered from one bank facility to another.",Dataloss DB,,2006,37.77493,-122.419416
+05/12/2006,Annibell Mortgage Inc.,Sayville,New York,STAT,BSF,300,"Four computers with the personal information of clients were stolen during an early April burglary.  The information did not include credit files, but did have other forms of private customer data.",Dataloss DB,,2006,40.735932,-73.082056
+6-14-2006,"American International Group (AIG), Indiana Office of Medical Excess, LLC",New York,New York,STAT,BSF,"9,30,000","The computer server was 
+            stolen on March 31 containing personal information including names, 
+            Social Security numbers, birth dates, and some medical and disability 
+            information. UPDATE (1/12/2010) A 28-year-old Indianapolis man was sentenced today to two years in state
+ prison for trying to extort $208,00 from an insurance company after 
+stealing a computer server. In March 2006, the man burglarized the 
+Indianapolis office of AIG Medical Excess, threatening to release 
+clients' personal data on the Internet. The server contained the names 
+of more than 900,000 insured persons, as well as their personal 
+identifying information, and confidential medical information and e-mail
+ communications. At the time of the burglary, the man was an employee of
+ a private security firm that provided security services to the 
+insurance company. On July 23, 2008, Stewart delivered a package to the 
+insurance company. The package included a letter stating that he 
+possessed the stolen server and its confidential data. He asked for 
+$1,000 a week for four years, but the FBI and others intervened. The 
+Indiana State Police, the Indiana Department of Natural Resources, 
+Indianapolis Metropolitan Police Department, and Attorney General also 
+were part of the investigation.
+",Dataloss DB,,2006,40.714269,-74.005973
+6-14-2006,"Law Finance Group Holdings, LLC",Reno,Nevada,STAT,BSF,"1,237","On April 7, the organization discovered that a computer server had been stolen from its office.  The equipment stored information on customers, employees, and prospects.  The information included names, Social Security numbers and addresses.",Dataloss DB,,2006,39.529633,-119.813803
+6-20-2006,University of Alabama,Birmingham,Alabama,STAT,EDU,"9,800","In February a computer 
+            was stolen from a locked office of the kidney transplant program at 
+            the University of Alabama at Birmingham that contained confidential 
+            information of donors, organ recipients and potential recipients including 
+            names, Social Security numbers and medical information.",Dataloss DB,,2006,33.520661,-86.80249
+6-21-2006,Lancaster General Hospital,Lancaster,Pennsylvania,STAT,EDU,200,"A desktop computer with 
+            personal information of hundreds of doctors was stolen from a locked 
+            office June 10. The unencrypted data included names, practice addresses, 
+            and SSNS of physicians on medical and dental staff.",Security Breach Letter,,2006,40.037876,-76.305514
+6-29-2006,AllState Insurance Huntsville branch,Huntsville,Alabama,STAT,BSF,"27,000","Over Memorial Day weekend, 
+            a computer containing personal data including images of insurance 
+            policies, correspondence and Social Security numbers was stolen.",Dataloss DB,,2006,34.730369,-86.586104
+07/07/2006,City of Hattiesburg,Hattiesburg,Mississippi,STAT,GOV,"2,000","Video surveillance cameras 
+            caught 2 intruders stealing hard drives from 18 computers June 23. 
+            Data files contained names, addresses, and SSNs of current and former 
+            city employees and registered voters as well as bank account information 
+            for employees paid through direct deposit and water system customers 
+            who paid bills electronically.",Dataloss DB,,2006,31.327119,-89.290339
+07/07/2006,Montana Public Health and Human Services Department,Helena,Montana,STAT,MED,0,"A state government computer 
+            was stolen from the office of a drug dependency program during a 
+            4th of July break-in. It was not known if sensitive information such 
+            as SSNs was compromised.",Dataloss DB,,2006,46.600212,-112.014719
+7-16-2006,Columbia University,New York,New York,STAT,EDU,78,"On or around July 7, a computer was stolen from campus.  The hard drive contained names, Social Security numbers, passport/visa numbers, tax identification numbers, home and business addresses, telephone contacts and email contacts.",Dataloss DB,,2006,40.714353,-74.005973
+7-18-2006,"CS Stars, subsidiary of insurance company Marsh Inc.",Chicago,Illinois,STAT,BSF,"7,22,000","On May 9, CS Stars lost 
+            track of a personal computer containing records of more than a half 
+            million New Yorkers who made claims to a special workers' comp fund. 
+            The lost data includes SSNs and date of birth but apparently no medical 
+            information. UPDATE (7/26/06):
+            Computer was recovered. UPDATE
+            (04/26/07): The  
+            New York Attorney General's office  found that CS Stars violated 
+            the state's security breach law. CS Stars must pay the Attorney General's 
+            office $60,000 for investigation costs. It was determined that the 
+            computer had been stolen by an employee of a cleaning contractor, 
+            the missing computer was located and recovered, and that the data 
+            on the missing computer had not been improperly accessed.",Security Breach Letter,,2006,41.850033,-87.650052
+08/09/2006,Hunter College of the City University of New York,New York,New York,STAT,EDU,0,A computer was stolen from the Writing Center in Thomas Hunter Hall on or around July 5.  Its hard drive had a file that contained a list of student names and Social Security numbers. Students who participated in the Spring 2006 CPE intervention session were affected.,Dataloss DB,,2006,40.714353,-74.005973
+08/10/2006,Manhasset-Lakeville Fire District,Great Neck,New York,STAT,GOV,300,"A computer was lost or stolen during office renovations.  The computer contained member names, dates of birth, Social Security numbers, addresses and names of beneficiaries. The computer is believed to have been destroyed.",Dataloss DB,,2006,40.800657,-73.728465
+8-17-2006,"HCA, Inc. Hospital Corporation of America",Nashville,Tennessee,STAT,MED,0,"10 computers containing 
+            Medicare and Medicaid billing information and records of employees 
+            and physicians from 1996-2006 were stolen from one of the company's 
+            regional offices. Some patient names and SSNs were exposed, but details 
+            are vague. Records for patients in hospitals in the following states 
+            were affected: CO, KS, LA, MS, OK, OR, TS, WA.",Dataloss DB,,2006,36.16589,-86.784443
+8-31-2006,CoreLogic for ComUnity Lending,Sacramento,California,STAT,BSO,0,"In early August, CoreLogic 
+            notified customers of ComUnity Lending that a computer with customers' 
+            data was stolen from its office. Data included names, SSNs, and property 
+            addresses related to an existing or anticipated mortgage loan.",Security Breach Letter,,2006,38.581572,-121.4944
+8-31-2006,Labcorp,Monroe,New Jersey,STAT,MED,0,"During a break-in June 4 
+            or 5, a computer was stolen that contained names and SSNs, but according 
+            to the company did not have birth dates or lab test results.",Dataloss DB,,2006,41.114541,-74.634051
+09/08/2006,University of Minnesota,Minneapolis,Minnesota,STAT,EDU,603,"On August 14-15 eve, two 
+            computers were stolen from the desk of an Institute of Technology 
+            employee, containing information on students who were freshmen from 
+            1992-2006 -- including names, birthdates, addresses, phone numbers, 
+            high schools attended, student ID numbers, grades, test scores, and, 
+            academic probation. SSNs of 603 students were also exposed.",Dataloss DB,,2006,44.979965,-93.263836
+09/09/2006,"Action Capital Mortgage Services, Inc.",Poughkeepsie,New York,STAT,BSF,923,An encrypted server was stolen during an August 23 office burglary.  Customer information was lost.,Dataloss DB,,2006,41.700371,-73.92097
+9-18-2006,"DePaul Medical Center, Radiation Therapy Department",Norfolk,Virginia,STAT,MED,100,"Two computers were stolen, 
+            one on August 28 and the other Sept. 11. Personal data included names, 
+            date of birth, treatment information, and some SSNs.",Dataloss DB,,2006,36.846815,-76.285218
+9-22-2006,Purdue University College of Science,West Lafayette,Indiana,STAT,EDU,"2,482","A file in a desktop computer 
+            in the Chemistry Department may have been accessed illegitimately. 
+            The file contained names, SSNs, school, major, and e-mail addresses 
+            of people who were students in 2000.",Dataloss DB,,2006,40.425869,-86.908066
+9-22-2006,"University of Colorado, Boulder, Leeds School of Business",Boulder,Colorado,STAT,EDU,"1,372","Two computers had been placed 
+            in storage during the school's move to temporary quarters in May. 
+            When they were to be retrieved Aug. 28, they were found missing. They 
+            had been used by 2 faculty members and included students' names, SSNs, 
+            and grades.  UPDATE
+            (9/25/06): One of the computers was found.",Dataloss DB,,2006,40.014986,-105.270546
+9-27-2006,New York Life Insurance Company,Boston,Massachusetts,STAT,BSF,0,"A life insurance agent reported that two desktops were stolen from his office.  Customer names, Social Security numbers, addresses, dates of birth and policy numbers may have been exposed. An unspecified number of customers nationwide were affected.",Dataloss DB,,2006,42.358431,-71.059773
+06/10/2005,Federal Deposit Insurance Corp. (FDIC),Washington,District Of Columbia,UNKN,GOV,"6,000","Personal information including the names, birthdays, salaries, and Social Security numbers of former Federal Deposit Insurance Corporation employees was stolen.  Some of the information was used for fraudulent purposes.  Affected employees from as far back as July 2002 were notified.",Dataloss DB,,2005,38.895112,-77.036366
+12/12/2005,"Sam's Club, a division of Wal-Mart Stores, Inc",Bentonville,Arkansas,UNKN,BSR,0,"
+Customers who used credit cards at the wholesaler's gas stations discovered fraudulent activity on their credit accounts.  Sam's Club is unaware of how the information was stolen.  Visa alerted the affected financial institutions and asked them to provide fraud monitoring services for the affected customers.",Dataloss DB,,2005,36.372854,-94.208817
+1-31-2006,Honeywell International,Morristown,New Jersey,UNKN,BSO,"19,000","Personal 
+            information of current and former employees including Social Security 
+            numbers and bank account information was posted on an Internet Web site. It was not known whether this was the result of a malicious insider or an administrative error.  Current and former employees whose information was compromised were informed immediately and offered free credit monitoring and identity theft insurance.",Dataloss DB,,2006,40.796767,-74.481544
+03/02/2006,Olympic Funding,Chicago,Illinois,UNKN,BSF,0,"Three hard drives containing 
+            clients' names, Social Security numbers, addresses and phone numbers 
+            stolen during a break in.  Information on the drives was protected via password and security software.  The business owner sent letters to his clients alerting them of the theft.",Dataloss DB,,2006,41.850033,-87.650052
+03/08/2006,iBill [disputed],Deerfield Beach,Florida,UNKN,BSF,"1,77,81,500","A dishonest insider or possibly 
+            malicious software linked to iBill was used to post names, phone numbers, 
+            addresses, e-mail addresses, Internet IP addresses, login names and passwords, 
+            credit card types and purchase amount online. Credit card account 
+            numbers, expiration dates, security codes, and Social Security numbers were NOT included, 
+            but in our opinion the affected individuals could be vulnerable to 
+            social engineering to obtain such information. Whether iBill is the source of the breach has been disputed.  ",Dataloss DB,,2006,26.318412,-80.099766
+3-16-2006,Mortgage Institute of Michigan,Southfield,Michigan,UNKN,BSF,67,"Someone used the Mortgage Institute of Michigan's account to make credit report requests.  Most of the requests were for Experian credit reports.  Equifax suspended the organization's access codes and an FBI investigation began.  The unauthorized user would have had access to customer names, Social Security numbers, home addresses, account numbers, creditor names and payment histories.",Dataloss DB,,2006,42.473369,-83.221873
+05/01/2006,"CBCInnovis Bank Inc., Great Florida Bank",Miami,Florida,UNKN,BSF,518,"CBCInnovis, Inc. learned that Great Florida Bank had consumer information accessed without proper authorization.  The information may have included names, addresses, Social Security numbers, names of creditors, account numbers, payment histories and financial public records.",Dataloss DB,,2006,25.788969,-80.226439
+5-31-2006,Texas Guaranteed Student Loan Corp. via subcontractor Hummingbird,Round Rock,Texas,UNKN,BSF,"17,00,000","Texas Guaranteed (TG) was 
+            notified by subcontractor Hummingbird that on May 24, an employee 
+            had lost a piece of equipment containing names and Social Security 
+            numbers of TG borrowers. UPDATE 
+            (6/16/06):TG now says 
+            a total of 1.7 million people's information was compromised, 400,000 
+            more than original estimate of 1.3 million.",Dataloss DB,,2006,30.508255,-97.678896
+6-13-2006,"U.S. Dept of Energy, Hanford Nucear Reservation",Richland,Washington,UNKN,GOV,"4,000","Current and former workers 
+            at the Hanford Nuclear Reservation were notified that their personal information 
+            may have been compromised, after police found a 1996 list with workers' 
+            names, Social Security numbers, birth dates, work titles, assignments, and telephone numbers in a home during an unrelated investigation.",Dataloss DB,,2006,46.285691,-119.284462
+6-23-2006,U.S. Navy,Washington,District Of Columbia,UNKN,GOV,"28,000","Navy personnel were notified 
+            on June 22 that a civilian website contained files with personal 
+            information of Navy members and dependents including names, birth 
+            dates and Social Security numbers.",Dataloss DB,,2006,38.895112,-77.036366
+6-23-2006,"CBCInnovis Inc., Andover Bank",Conneaut,Ohio,UNKN,BSF,"1,122","Names, Social Security numbers, addresses, names of creditors, account numbers, payment histories and public records of financial judgments may have been accessed without proper authorization at Andover Bank.",Dataloss DB,,2006,41.947555,-80.554241
+6-24-2006,Catawba County Schools,Newton,North Carolina,UNKN,EDU,619,"On June 22, it was discovered 
+              that a web site posted names, Social Security numbers, and test 
+              scores of students who had taken a keyboarding and computer applications 
+              placement test during the 2001-02 school year.
+              UPDATE:The web site containing the 
+              data has been removed.",Dataloss DB,,2006,35.669855,-81.221471
+6-30-2006,National Institutes of Health Federal Credit Union,Rockville,Maryland,UNKN,BSF,"41,000","NIHFCU and law enforcement are investigating the identity theft of some of its 41,000 members. 
+            No details were given on the type of information stolen, or how it was stolen.",Media,,2006,39.083997,-77.152758
+07/06/2006,Automatic Data Processing (ADP),Roseland,New Jersey,UNKN,BSO,0,"Payroll service company 
+            ADP gave scam-artist names, addresses, and number of shares held of 
+            investors, although apparently not SSNs or account numbers. The leak 
+            occurred from Nov. '05 to Feb. '06 and involved individual investors 
+            with 60 companies including Fidelity, UBS, Morgan Stanley, Bear Stearns, 
+            Citigroup, Merrill Lynch. Hundreds of thousands of investors may have been affected.",Dataloss DB,,2006,40.820656,-74.293759
+08/01/2006,Ron Tonkin Nissan,Portland,Oregon,UNKN,BSR,"16,000","Several months ago the 
+              car dealership experienced a security breach affecting the personal 
+              information of those who bought cars or applied for credit between 
+              2001 and March 2006.",Dataloss DB,,2006,45.523452,-122.676207
+10/03/2006,Picatinny Arsenal,Rockaway,New Jersey,UNKN,GOV,0,"28 computers are missing 
+            from the Picatinny Arsenal, a Department of Defense Weapons Research 
+            Center. The computers were reported lost or stolen over the last two 
+            years. None of the computers was encrypted. Officials state the computers 
+            did not contain classified information.",Media,,2006,40.90121,-74.514323
+10-14-2006,"CBA Information Solutions, Washington Savings Bank",Bowle,Maryland,UNKN,BSF,0,"An unauthorized user gained access to the log in information of Washington Savings Bank.  The unauthorized user could have accessed customer and non-customer names, Social Security numbers, addresses and credit histories. The breach occurred between September 15 and September 21.  At least 20 New York residents were affected, but the nationwide total was not reported.",Dataloss DB,,2006,39.006777,-76.779137
+10-16-2006,"VISA, FirstBank (1st Bank)",Lakewood,Colorado,UNKN,BSF,0,"FirstBank sent a letter 
+            to an unknown number of customers informing them their FirstTeller 
+            Visa Check Card numbers were compromised when someone accessed “a 
+            merchant card processor's transaction database.” The FirstBank letter 
+            said customers would receive new cards by October 27.",Dataloss DB,,2006,39.70471,-105.081373
+01/10/2007,University of Arizona,Tucson,Arizona,UNKN,EDU,0,"Breaches occurred in November 
+            and December 2006 that affected services with UA Student Unions, University 
+            Library, and UA Procurement and Contracting Services. Some services 
+            were shut down for several days.",Dataloss DB,,2007,32.221743,-110.926479
+2-27-2007,"CBCInnovis Inc., Hudiburg Chevrolet ",Midwest City,Oklahoma,UNKN,BSR,138,"An unauthorized person gained access to Hudiburg Chevrolet's CBCInnovis account.  The person or persons would have been able to obtain customer names, Social Security numbers, addresses and credit information.",Dataloss DB,,2007,35.449507,-97.396702
+3-13-2007,U.S. Department of Agriculture (USDA),Washington,District Of Columbia,UNKN,GOV,0,"A total of 95 USDA 
+            computers were lost or stolen between Oct. 1, 2005, and May 31, 2006. 
+            Some may have contained personal information such as names, addresses, 
+            Social Security numbers and payment information. Two-thirds of the 
+            computers contained unencrypted data.",Media,,2007,38.895112,-77.036366
+3-29-2007,"Experian, Vallarta Auto Sales",Las Vegas,Nevada,UNKN,BSR,0,"An unauthorized person gained access to Vallarta's Experian account and may have obtained consumer information.  Affected individuals may have had their names, Social Security numbers, dates of birth and addresses exposed. Fourteen New York residents were affected, but the total number of people affected nationwide was not reported.",Dataloss DB,,2007,36.114646,-115.172816
+5-25-2007,North Carolina Department of Transportation,Raleigh,North Carolina,UNKN,GOV,"25,000","A computer server 
+            used to back up employee identification badge records that included 
+            the names and Social Security numbers of NCDOT employees, contractors 
+            and other state employees was compromised.",Dataloss DB,,2007,35.772096,-78.638615
+5-29-2007,Mytreo.net,Sunnyvale,California,UNKN,BSR,679,"Mytreo.net store customers may have had their personal information compromised.  An individual may have viewed names, Social Security numbers, addresses and encrypted credit card information.  The criminal had not been caught at the time of the report, and their method for accessing customer information was not revealed.",Dataloss DB,,2007,37.36883,-122.03635
+6-14-2007,Division of Workforce  Services,Salt Lake City,Utah,UNKN,GOV,"20,000","Children's Social 
+            Security numbers are believed to have been compromised by identity 
+            thieves.",Media,,2007,40.760779,-111.891047
+07/05/2007,Highland University,Las Vegas,New Mexico,UNKN,EDU,420,"A building on the 
+            campus had been broken into, and the affected offices might have contained such personal information as Social Security numbers, credit card 
+            and bank account information.",Dataloss DB,,2007,35.593933,-105.223897
+08/07/2007,Merrill Lynch,Hopewell,New Jersey,UNKN,BSF,"33,000","A computer device 
+            apparently was stolen containing sensitive personal information, including 
+            Social Security numbers, about some 33,000 employees.",Dataloss DB,,2007,41.049264,-74.549603
+8-21-2007,West Virginia Board of Barbers and Cosmetologists,Charleston,West Virginia,UNKN,BSO,0,"Every barber and cosmetologist 
+            licensed in the state of West Virginia since 1986 could now potentially 
+            be a victim of identity theft. Someone broke into the second floor 
+            office of the Board of Barbers and Cosmetologists and stole a safe. 
+            The director of the agency says the safe contains the personal information 
+            of thousands of hair dressers.",Dataloss DB,,2007,38.34982,-81.632623
+8-23-2007,Loomis Chaffee School,Windsor,Connecticut,UNKN,EDU,0,"Valuable computer 
+            equipment, including two large storage devices were stolen during 
+            a night time burglary from the locked IT facility on campus. The stolen 
+            storage devices contained information about some recent graduates 
+            of the school, including their names, Social Security numbers, and 
+            contact information from their days as students at the school.",Dataloss DB,,2007,41.852598,-72.643702
+8-26-2007,American Ex-Prisoners of War,,Texas,UNKN,NGO,"35,000","Personal records including addresses and Social Security numbers of more than 35,000 veterans and their families were stolen this month from the offices of a POW support organization in Texas. Digital and paper records included information on the group's entire membership, including addresses, dates of birth, Social Security numbers and VA claims data.",,,2007,31.968599,-99.901813
+09/04/2007,Brevard Public Schools,Viera,Florida,UNKN,EDU,61,"A missing piece 
+              of luggage belonging to a state auditor contains the personal information 
+              of 61 Brevard Public Schools employees and had district personnel 
+              scrambling before the holiday weekend began to notify people that 
+              their names and Social Security numbers might be compromised.
+            UPDATE (9/21/07): 
+              Melbourne International Airport police arrested a 44-year-old defense 
+              subcontractor from California on charges of stealing luggage. He 
+              is in the Brevard County Jail, facing at least two charges of grand 
+              theft.",Media,,2007,28.246955,-80.736999
+11/07/2007,Frost Bank,San Antonio,Texas,UNKN,BSF,500,Around five hundred credit or debit card numbers were obtained via unknown means.  Around one hundred were used to make approximately $3000 in contributions to Ron Paul's presidential campaign. It is possible that the identity thieves were testing the cards to see if they were valid.,Dataloss DB,,2007,29.424122,-98.493628
+11-30-2007,Prescription Advantage,Boston,Massachusetts,UNKN,MED,"1,50,000","The state of Massachusetts is 
+            warning 150,000 members of its Prescription Advantage insurance program 
+            that their personal information may have been snatched by an identity 
+            thief. Local authorities arrested a lone identity thief who had been 
+            using information taken from the program in an attempted identity 
+            theft scheme. Although the thief used information from just a small 
+            number of participants in the scheme, state data-breach laws require 
+            that the 150,000 people who could have possibly been affected by the 
+            breach be contacted.",Dataloss DB,,2007,42.358431,-71.059773
+12/10/2007,Cameron County,Brownsville,Texas,UNKN,GOV,0,"An employee released an e-mail 
+            with a list of all county officials and employees. It reportedly contained 
+            names, Social Security numbers, and salaries.",Dataloss DB,,2007,25.901747,-97.497484
+01/12/2008," California State University Stanislaus, Sodexho",Turlock,California,UNKN,EDU,0,"A possible data breach occurred 
+            on a food vendor's computer server. Credit card numbers, cardholder 
+            names and expiration dates were exposed, leaving hundreds, possibly 
+            thousands, of university students, staff and guests open to identity 
+            theft, with victims reporting fake charges on their cards. Social 
+            Security numbers were not accessible.",Dataloss DB,,2008,37.494657,-120.846594
+04/04/2008,"University of California, Irvine",Irvine,California,UNKN,EDU,"7,000","7,000 current or former graduate 
+            students could be at risk of identity thieves who already used stolen 
+            data to file fake tax returns for 93 students. UCI does not know how 
+            the information was stolen or who is using it.UPDATE (10/22/10): A class action lawsuit 
+against United Healthcare Services was settled. UCI graduate students were affected by a fraudulent tax return scheme after an employee of United Healthcare Services misused their information to file fraudulent tax returns. ",Dataloss DB,,2008,33.669465,-117.823111
+4-15-2008,First Federal Bank of California,Los Angeles,California,UNKN,BSF,0,"This bank was not the only financial 
+            institute impacted by a security breach that occurred in a banking 
+            in a subsystem of a financial data processor, Fiserv, 
+            Inc. of Wisconsin last month.The bank said that it was company 
+            policy not to reveal any details about the breach including 
+            the number of banks involved, how many customers were impacted, the 
+            depth of information breached, how extensive the breach was geographically 
+            even which federal agencies were involved. However, non-public private 
+            account information might be at risk.",Dataloss DB,,2008,34.052234,-118.243685
+06/02/2008,Walter Reed Army Medical Center,Washington,District Of Columbia,UNKN,MED,"1,000","Sensitive information on patients 
+          at Walter Reed Army Medical Center and other military hospitals was 
+          exposed in a security breach. The computer file was found on a ""non-government, non-secure computer network.""  The data file did 
+          not include information such as medical records, or the diagnosis or 
+          prognosis for patients, but may have included names, Social Security 
+          numbers, birth dates as well as other information.",Dataloss DB,,2008,38.895112,-77.036366
+7-15-2008,Missouri National Guard,Jefferson City,Missouri,UNKN,GOV,"2,000","The Missouri National Guard has 
+            called for a criminal investigation after it learned that the personal 
+            information of as many as 2,000 soldiers had been breached. The Guard 
+            would not release how the personal information had been taken -- whether 
+            by computer hackers or other means -- because it has asked for a full 
+            law enforcement investigation into the matter.",Dataloss DB,,2008,38.576702,-92.173516
+8-27-2008,YMCA,Champaign,Illinois,UNKN,NGO,0,"Customers who paid for items at 
+            a YMCA fund-raiser with checks or credit cards are being warned about 
+            a burglary at which credit and debit card numbers were taken.",Media,,2008,40.11642,-88.243383

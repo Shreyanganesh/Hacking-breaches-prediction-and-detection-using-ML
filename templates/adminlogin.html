@@ -1,0 +1,39 @@
+{% extends "nav.html" %}
+{% block content %}
+{% load static %}
+
+
+
+
+<div class="contact_section layout_padding">
+    <div class="container">
+      <h1 class="check_text">Admin</h1>
+      <div class="contact_section2">
+        <div class="addres_main">
+            <form method="post">
+                {% csrf_token %}
+          <div class="input_bg">
+            <h3 class="fact_text"></h3>
+            <input type="text" class="address_text" placeholder="UserName" name="uname"><br><br>
+           <input type="password" class="address_text" placeholder="Password" name="psw"><br><br>
+            <button type="submit" class="get_bt">Admin</button>
+          </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+{% for i in messages %}
+<script>alert("{{i}}")</script>
+{% endfor %}
+
+
+
+{% endblock %}
